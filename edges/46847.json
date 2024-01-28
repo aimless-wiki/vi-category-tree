@@ -1,1 +1,1 @@
-{"name": "Nhân_vật_chính_trị_nhà_Chu", "id": 46847, "predecessors": [{"name": "Người_nhà_Chu", "id": 46848}], "successors": [{"name": "Vua_nhà_Chu", "id": 106892}, {"name": "Quân_chủ_chư_hầu_nhà_Chu", "id": 444082}, {"name": "Nhiếp_chính_thời_cổ_đại", "id": 19613556}]}
+{"name": "Nhân_vật_chính_trị_nhà_Chu", "id": 46847, "predecessors": [{"name": "Người_nhà_Chu", "id": 46848}, {"name": "Lịch_sử", "id": 3080}], "successors": [{"name": "Vua_nhà_Chu", "id": 106892}, {"name": "Nhân_vật_chính_trị_Xuân_Thu", "id": 468498}, {"name": "Nhân_vật_chính_trị_Chiến_Quốc", "id": 468610}]}

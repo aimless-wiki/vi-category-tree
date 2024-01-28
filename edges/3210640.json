@@ -1,1 +1,1 @@
-{"name": "Động_vật_ăn_thịt_người", "id": 3210640, "predecessors": [{"name": "Ăn_thịt_người", "id": 806549}, {"name": "Động_vật_ăn_thịt", "id": 167016}], "successors": []}
+{"name": "Động_vật_ăn_thịt_người", "id": 3210640, "predecessors": [{"name": "Động_vật_ăn_thịt", "id": 167016}, {"name": "Hành_vi_ăn_uống", "id": 1406582}], "successors": []}

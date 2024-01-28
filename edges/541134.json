@@ -1,1 +1,1 @@
-{"name": "Trường_đại_học_và_cao_đẳng_Ba_Lan", "id": 541134, "predecessors": [{"name": "Giáo_dục_Ba_Lan", "id": 19481597}], "successors": [{"name": "Trường_đại_học_Ba_Lan", "id": 19604269}]}
+{"name": "Trường_đại_học_và_cao_đẳng_Ba_Lan", "id": 541134, "predecessors": [{"name": "Giáo_dục_đại_học", "id": 243133}, {"name": "Quốc_gia_châu_Âu", "id": 74062}, {"name": "Ba_Lan", "id": 9631}], "successors": [{"name": "Trường_đại_học_Ba_Lan", "id": 19604269}]}

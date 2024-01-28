@@ -1,1 +1,1 @@
-{"name": "Thuật_ngữ_ngân_hàng", "id": 2426527, "predecessors": [{"name": "Thuật_ngữ_kinh_doanh", "id": 182788}], "successors": [{"name": "Hệ_thống_thanh_toán", "id": 66579}]}
+{"name": "Thuật_ngữ_ngân_hàng", "id": 2426527, "predecessors": [{"name": "Ngành_ngân_hàng", "id": 13843360}, {"name": "Thuật_ngữ_kinh_doanh", "id": 182788}], "successors": [{"name": "Hệ_thống_thanh_toán", "id": 66579}]}

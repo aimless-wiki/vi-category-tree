@@ -1,1 +1,1 @@
-{"name": "Ga_Korail", "id": 15425859, "predecessors": [{"name": "Korail", "id": 15425867}], "successors": []}
+{"name": "Ga_Korail", "id": 15425859, "predecessors": [{"name": "Kinh_tế", "id": 5765}], "successors": [{"name": "Ga_tàu_tốc_hành_Hàn_Quốc", "id": 19521084}]}

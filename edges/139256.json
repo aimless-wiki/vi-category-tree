@@ -1,1 +1,1 @@
-{"name": "Phim_câm", "id": 139256, "predecessors": [{"name": "Lịch_sử_điện_ảnh", "id": 135669}, {"name": "Phim_không_lời", "id": 3367817}, {"name": "Phim", "id": 5997}], "successors": []}
+{"name": "Phim_câm", "id": 139256, "predecessors": [{"name": "Phim", "id": 5997}, {"name": "Lịch_sử_công_nghệ", "id": 68461}, {"name": "Niên_đại_học", "id": 434002}], "successors": []}

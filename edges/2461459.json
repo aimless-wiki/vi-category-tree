@@ -1,1 +1,1 @@
-{"name": "Phim_về_nhà_văn", "id": 2461459, "predecessors": [{"name": "Phim", "id": 5997}, {"name": "Nhà_văn", "id": 6284}], "successors": [{"name": "Phim_tiểu_sử_về_nhà_văn", "id": 2461458}]}
+{"name": "Phim_về_nhà_văn", "id": 2461459, "predecessors": [{"name": "Phim", "id": 5997}, {"name": "Nghệ_thuật", "id": 6515}, {"name": "Mỹ_học", "id": 62166}], "successors": []}

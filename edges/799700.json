@@ -1,1 +1,1 @@
-{"name": "Giày_dép", "id": 799700, "predecessors": [{"name": "Hàng_dân_dụng", "id": 37645}, {"name": "Thời_trang", "id": 37649}, {"name": "Đi_bộ", "id": 3144844}], "successors": [{"name": "Giày", "id": 1472305}, {"name": "Giày_thể_thao", "id": 3215281}]}
+{"name": "Giày_dép", "id": 799700, "predecessors": [{"name": "Thời_trang", "id": 37649}, {"name": "Trang_phục", "id": 37652}, {"name": "Thể_dục", "id": 262234}, {"name": "Kinh_doanh", "id": 37648}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hoạt_hình_Mỹ", "id": 189501, "predecessors": [{"name": "Hoạt_hình", "id": 14105}], "successors": [{"name": "Phim_hoạt_hình_Mỹ", "id": 1644207}, {"name": "Nhà_làm_phim_hoạt_hình_Mỹ", "id": 2708055}, {"name": "Xưởng_phim_hoạt_hình_Mỹ", "id": 11709235}]}
+{"name": "Hoạt_hình_Mỹ", "id": 189501, "predecessors": [{"name": "Giải_trí", "id": 6073}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": [{"name": "Nhà_làm_phim_hoạt_hình_Mỹ", "id": 2708055}]}

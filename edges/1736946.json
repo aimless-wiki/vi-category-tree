@@ -1,1 +1,1 @@
-{"name": "Vũ_khí_nổ", "id": 1736946, "predecessors": [{"name": "Vũ_khí", "id": 13338}], "successors": [{"name": "Thiết_bị_nổ_tự_tạo", "id": 3140857}]}
+{"name": "Vũ_khí_nổ", "id": 1736946, "predecessors": [{"name": "Vũ_khí", "id": 13338}, {"name": "Đạn_dược", "id": 82999}], "successors": [{"name": "Đánh_bom", "id": 611840}, {"name": "Súng_phóng_lựu", "id": 419287}]}

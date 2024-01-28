@@ -1,1 +1,1 @@
-{"name": "Công_ty_đa_quốc_gia", "id": 286038, "predecessors": [{"name": "Công_ty_liên_doanh", "id": 286114}, {"name": "Kinh_doanh_quốc_tế", "id": 238365}], "successors": [{"name": "Công_ty_quốc_tế", "id": 286034}]}
+{"name": "Công_ty_đa_quốc_gia", "id": 286038, "predecessors": [{"name": "Công_ty_liên_doanh", "id": 286114}, {"name": "Dạng_thực_thể_kinh_doanh", "id": 1706843}, {"name": "Tổ_chức_quốc_tế", "id": 6821}, {"name": "Kinh_doanh", "id": 37648}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Kẻ_giết_người_hàng_loạt", "id": 1337508, "predecessors": [{"name": "Kẻ_giết_người", "id": 423825}, {"name": "Tội_phạm", "id": 39511}], "successors": []}
+{"name": "Kẻ_giết_người_hàng_loạt", "id": 1337508, "predecessors": [{"name": "Tội_phạm", "id": 39511}, {"name": "Nguyên_nhân_tử_vong", "id": 3175940}], "successors": [{"name": "Kẻ_giết_người_hàng_loạt_là_nam_giới", "id": 3247951}]}

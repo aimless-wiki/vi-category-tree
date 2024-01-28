@@ -1,1 +1,1 @@
-{"name": "Ảo_giác_thị_giác", "id": 3114504, "predecessors": [{"name": "Hiện_tượng_quang_học", "id": 138506}, {"name": "Thị_giác", "id": 415254}, {"name": "Ảo_giác", "id": 1101899}], "successors": [{"name": "Ảo_ảnh_quang_học", "id": 12971}]}
+{"name": "Ảo_giác_thị_giác", "id": 3114504, "predecessors": [{"name": "Thị_giác", "id": 415254}, {"name": "Hiện_tượng_vật_lý", "id": 1401722}, {"name": "Thực_tế", "id": 1439389}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sân_bay_Đức", "id": 61166, "predecessors": [{"name": "Hàng_không_Đức", "id": 250527}, {"name": "Du_lịch_châu_Âu_theo_quốc_gia", "id": 14791262}], "successors": []}
+{"name": "Sân_bay_Đức", "id": 61166, "predecessors": [{"name": "Kinh_tế_thành_viên_EU", "id": 185756}, {"name": "Kinh_tế", "id": 5765}, {"name": "Du_lịch", "id": 4633}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nhạc_sĩ_song_tính", "id": 3247993, "predecessors": [{"name": "Nghệ_sĩ_song_tính", "id": 3261785}, {"name": "Âm_nhạc_liên_quan_đến_LGBT", "id": 3247422}, {"name": "Người_song_tính_luyến_ái", "id": 329666}, {"name": "Giải_trí", "id": 6073}], "successors": []}
+{"name": "Nhạc_sĩ_song_tính", "id": 3247993, "predecessors": [{"name": "LGBT", "id": 66925}, {"name": "Giải_trí", "id": 6073}, {"name": "Nghệ_thuật_theo_lĩnh_vực", "id": 38414}, {"name": "Nghề_nghiệp_trong_công_nghiệp_âm_nhạc", "id": 2413550}], "successors": []}

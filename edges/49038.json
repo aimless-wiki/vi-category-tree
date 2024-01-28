@@ -1,1 +1,1 @@
-{"name": "Phi_công_Mỹ", "id": 49038, "predecessors": [{"name": "Kinh_tế_Hoa_Kỳ", "id": 148181}], "successors": []}
+{"name": "Phi_công_Mỹ", "id": 49038, "predecessors": [{"name": "Hàng_không", "id": 29202}, {"name": "Kinh_tế_Hoa_Kỳ", "id": 148181}, {"name": "Con_người", "id": 18532}], "successors": []}

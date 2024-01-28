@@ -1,1 +1,1 @@
-{"name": "Ẩm_thực_Lào", "id": 80114, "predecessors": [{"name": "Văn_hóa_Lào", "id": 82454}, {"name": "Ẩm_thực_châu_Á", "id": 68304}, {"name": "Ẩm_thực_Đông_Nam_Á", "id": 82452}, {"name": "Ẩm_thực", "id": 5373}], "successors": []}
+{"name": "Ẩm_thực_Lào", "id": 80114, "predecessors": [{"name": "Ẩm_thực", "id": 5373}, {"name": "Ăn_uống", "id": 494980}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cuộc_thi_khoa_học", "id": 505257, "predecessors": [{"name": "Cuộc_thi", "id": 55150}], "successors": [{"name": "Các_kỳ_thi_Tin_học", "id": 59829}, {"name": "Olympic_Khoa_học_Quốc_tế", "id": 505252}]}
+{"name": "Cuộc_thi_khoa_học", "id": 505257, "predecessors": [{"name": "Giải_thưởng_khoa_học_kỹ_thuật", "id": 346135}, {"name": "Hành_vi_con_người", "id": 84233}, {"name": "Khoa_học", "id": 7492}], "successors": [{"name": "Olympic_Khoa_học_Quốc_tế", "id": 505252}]}

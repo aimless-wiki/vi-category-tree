@@ -1,1 +1,1 @@
-{"name": "Rồng", "id": 321895, "predecessors": [{"name": "Quái_vật", "id": 444469}, {"name": "Sinh_vật_giả_tưởng", "id": 3367838}, {"name": "Sinh_vật_huyền_thoại", "id": 3146913}], "successors": [{"name": "Rồng_trong_văn_hoá_đại_chúng", "id": 19710361}, {"name": "Phim_về_rồng", "id": 19710359}]}
+{"name": "Rồng", "id": 321895, "predecessors": [{"name": "Quái_vật", "id": 444469}, {"name": "Sinh_vật_huyền_thoại", "id": 3146913}, {"name": "Con_người", "id": 18532}, {"name": "Danh_pháp_động_vật_học", "id": 148843}], "successors": []}

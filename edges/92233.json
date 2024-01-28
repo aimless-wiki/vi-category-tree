@@ -1,1 +1,1 @@
-{"name": "Người_Chăm", "id": 92233, "predecessors": [{"name": "Chăm_Pa", "id": 92234}, {"name": "Các_dân_tộc_Việt_Nam", "id": 10791}], "successors": [{"name": "Vua_Champa", "id": 3374327}]}
+{"name": "Người_Chăm", "id": 92233, "predecessors": [{"name": "Các_dân_tộc_Việt_Nam", "id": 10791}, {"name": "Các_vương_quốc_Ấn_hóa", "id": 74503}], "successors": [{"name": "Vua_Chăm_Pa", "id": 92230}, {"name": "Lãnh_tụ_Panduranga", "id": 3372945}, {"name": "Lãnh_tụ_Vijaya", "id": 3373958}]}

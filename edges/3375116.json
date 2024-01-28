@@ -1,1 +1,1 @@
-{"name": "Tàu_của_Cảnh_sát_biển_Việt_Nam", "id": 3375116, "predecessors": [{"name": "Cảnh_sát_biển_Việt_Nam", "id": 3161600}], "successors": []}
+{"name": "Tàu_của_Cảnh_sát_biển_Việt_Nam", "id": 3375116, "predecessors": [{"name": "Việt_Nam", "id": 4189}, {"name": "Hải_quân", "id": 33598}, {"name": "Quân_sự_Việt_Nam", "id": 38905}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nhà_phê_bình_tôn_giáo", "id": 3386165, "predecessors": [{"name": "Nhà_phê_bình", "id": 3386169}, {"name": "Phê_bình_tôn_giáo", "id": 3386166}], "successors": [{"name": "Nhà_phê_bình_Hồi_giáo", "id": 3418228}, {"name": "Nhà_phê_bình_Do_Thái_giáo", "id": 3420234}, {"name": "Nhà_phê_bình_Kitô_giáo", "id": 3420235}]}
+{"name": "Nhà_phê_bình_tôn_giáo", "id": 3386165, "predecessors": [{"name": "Tôn_giáo", "id": 4619}, {"name": "Nghệ_thuật", "id": 6515}], "successors": []}

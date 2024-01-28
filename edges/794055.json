@@ -1,1 +1,1 @@
-{"name": "Doanh_nhân_Hồng_Kông", "id": 794055, "predecessors": [{"name": "Kinh_tế_Hồng_Kông", "id": 104005}, {"name": "Người_Hồng_Kông", "id": 7517}], "successors": []}
+{"name": "Doanh_nhân_Hồng_Kông", "id": 794055, "predecessors": [{"name": "Doanh_nhân", "id": 25655}, {"name": "Người_Hồng_Kông", "id": 7517}, {"name": "Kinh_tế_Trung_Quốc", "id": 77486}], "successors": []}

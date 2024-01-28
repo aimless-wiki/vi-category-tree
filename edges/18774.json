@@ -1,1 +1,1 @@
-{"name": "Robot_Wikipedia", "id": 18774, "predecessors": [{"name": "Quyền_truy_cập_của_thành_viên_Wikipedia", "id": 527086}], "successors": [{"name": "Tiêu_bản_của_Qbot", "id": 300400}]}
+{"name": "Robot_Wikipedia", "id": 18774, "predecessors": [{"name": "Công_cụ_Wikipedia", "id": 26063}, {"name": "Quyền_truy_cập_của_thành_viên_Wikipedia", "id": 527086}, {"name": "Thành_viên_Wikipedia", "id": 5992}, {"name": "Robot", "id": 13823138}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Bệnh_viện_trực_thuộc_Bộ_Y_tế", "id": 19635662, "predecessors": [{"name": "Đơn_vị_sự_nghiệp_trực_thuộc_Bộ_Y_tế", "id": 19670150}], "successors": []}
+{"name": "Bệnh_viện_trực_thuộc_Bộ_Y_tế", "id": 19635662, "predecessors": [{"name": "Công_trình_xây_dựng", "id": 29203}, {"name": "Chính_phủ_Việt_Nam", "id": 23403}], "successors": []}

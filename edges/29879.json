@@ -1,1 +1,1 @@
-{"name": "Hàng_hải", "id": 29879, "predecessors": [{"name": "Biển", "id": 16532}, {"name": "Đại_dương", "id": 27727}], "successors": [{"name": "Thuật_ngữ_hàng_hải", "id": 448265}]}
+{"name": "Hàng_hải", "id": 29879, "predecessors": [{"name": "Đại_dương", "id": 27727}, {"name": "Hải_dương_học", "id": 79883}, {"name": "Giao_thông", "id": 7509}], "successors": [{"name": "Thuật_ngữ_hàng_hải", "id": 448265}]}

@@ -1,1 +1,1 @@
-{"name": "Lịch_sử_trang_phục", "id": 1439372, "predecessors": [{"name": "Lịch_sử_văn_hóa", "id": 64050}, {"name": "Trang_phục", "id": 37652}], "successors": [{"name": "Lịch_sử_thời_trang", "id": 1439369}, {"name": "Lịch_sử_trang_phục_châu_Á", "id": 19714721}]}
+{"name": "Lịch_sử_trang_phục", "id": 1439372, "predecessors": [{"name": "Trang_phục", "id": 37652}, {"name": "Di_sản_văn_hóa", "id": 64052}], "successors": [{"name": "Lịch_sử_thời_trang", "id": 1439369}, {"name": "Trang_phục_Việt_Nam", "id": 139599}, {"name": "Trang_phục_Nhật_Bản", "id": 139605}]}

@@ -1,1 +1,1 @@
-{"name": "Vật_liệu_quang_học", "id": 1646592, "predecessors": [{"name": "Quang_học", "id": 3030}, {"name": "Vật_liệu", "id": 8288}], "successors": [{"name": "Thủy_tinh", "id": 8286}, {"name": "Siêu_vật_liệu", "id": 13713292}]}
+{"name": "Vật_liệu_quang_học", "id": 1646592, "predecessors": [{"name": "Quang_học", "id": 3030}, {"name": "Vật_liệu", "id": 8288}, {"name": "Vật_liệu_trong_suốt", "id": 1646593}], "successors": [{"name": "Vật_liệu_trong_suốt", "id": 1646593}]}

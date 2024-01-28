@@ -1,1 +1,1 @@
-{"name": "Huấn_luyện_viên_bóng_đá_Việt_Nam", "id": 75822, "predecessors": [{"name": "Huấn_luyện_viên_thể_thao_Việt_Nam", "id": 15124488}, {"name": "Vận_động_viên_Việt_Nam", "id": 37667}, {"name": "Huấn_luyện_viên_bóng_đá", "id": 75807}], "successors": []}
+{"name": "Huấn_luyện_viên_bóng_đá_Việt_Nam", "id": 75822, "predecessors": [{"name": "Huấn_luyện_viên_bóng_đá", "id": 75807}, {"name": "Vận_động_viên_Việt_Nam", "id": 37667}, {"name": "Thể_thao", "id": 6834}], "successors": []}

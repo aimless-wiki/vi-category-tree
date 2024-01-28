@@ -1,1 +1,1 @@
-{"name": "Động_vật_giáp_xác_ăn_được", "id": 3145594, "predecessors": [{"name": "Thức_ăn_từ_thủy_sản", "id": 525961}], "successors": []}
+{"name": "Động_vật_giáp_xác_ăn_được", "id": 3145594, "predecessors": [{"name": "Danh_pháp_động_vật_học", "id": 148843}, {"name": "Món_ăn", "id": 495137}], "successors": [{"name": "Động_vật_giáp_xác_thương_mại", "id": 3145595}]}

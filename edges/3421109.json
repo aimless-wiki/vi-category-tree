@@ -1,1 +1,1 @@
-{"name": "Khu_phố_mua_sắm_Hàn_Quốc", "id": 3421109, "predecessors": [{"name": "Khu_phố_mua_sắm", "id": 84091}, {"name": "Du_lịch_Hàn_Quốc", "id": 504596}], "successors": []}
+{"name": "Khu_phố_mua_sắm_Hàn_Quốc", "id": 3421109, "predecessors": [{"name": "Du_lịch", "id": 4633}, {"name": "Dạng_nơi_tập_trung_dân_cư", "id": 1644883}], "successors": []}

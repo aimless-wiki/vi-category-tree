@@ -1,1 +1,1 @@
-{"name": "Sân_bay_Malaysia", "id": 67268, "predecessors": [{"name": "Kinh_tế_Malaysia", "id": 55469}, {"name": "Đông_Nam_Á", "id": 6616}], "successors": []}
+{"name": "Sân_bay_Malaysia", "id": 67268, "predecessors": [{"name": "Kinh_tế", "id": 5765}, {"name": "Du_lịch", "id": 4633}, {"name": "Hàng_không", "id": 29202}], "successors": []}

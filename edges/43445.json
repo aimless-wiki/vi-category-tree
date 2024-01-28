@@ -1,1 +1,1 @@
-{"name": "Nhân_vật_chính_trị_Tam_Quốc", "id": 43445, "predecessors": [{"name": "Nhân_vật_Tam_Quốc", "id": 43442}], "successors": []}
+{"name": "Nhân_vật_chính_trị_Tam_Quốc", "id": 43445, "predecessors": [{"name": "Nhân_vật_Tam_Quốc", "id": 43442}, {"name": "Lịch_sử", "id": 3080}], "successors": [{"name": "Nhân_vật_chính_trị_Thục_Hán", "id": 3296372}, {"name": "Nhân_vật_chính_trị_Đông_Ngô", "id": 3296374}, {"name": "Nhân_vật_chính_trị_Tào_Ngụy", "id": 3296375}]}

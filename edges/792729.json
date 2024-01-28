@@ -1,1 +1,1 @@
-{"name": "Súng_carbine", "id": 792729, "predecessors": [{"name": "Bộ_binh", "id": 66469}], "successors": []}
+{"name": "Súng_carbine", "id": 792729, "predecessors": [{"name": "Súng_trường", "id": 239158}, {"name": "Bộ_binh", "id": 66469}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nghệ_sĩ_hát_rong", "id": 2217234, "predecessors": [{"name": "Nghệ_sĩ_đường_phố", "id": 14240113}, {"name": "Ca_hát", "id": 1446016}], "successors": [{"name": "Troubadour", "id": 14370098}]}
+{"name": "Nghệ_sĩ_hát_rong", "id": 2217234, "predecessors": [{"name": "Giải_trí", "id": 6073}, {"name": "Nghệ_thuật_theo_lĩnh_vực", "id": 38414}, {"name": "Lý_thuyết_âm_nhạc", "id": 48865}, {"name": "Nghề_nghiệp_trong_công_nghiệp_âm_nhạc", "id": 2413550}], "successors": [{"name": "Troubadour", "id": 14370098}]}

@@ -1,1 +1,1 @@
-{"name": "Nuôi_trồng_thủy_sản", "id": 1405695, "predecessors": [{"name": "Cá_ăn_được", "id": 1405873}, {"name": "Thủy_sản", "id": 491173}], "successors": [{"name": "Khoa_học_thủy_sản", "id": 2430966}]}
+{"name": "Nuôi_trồng_thủy_sản", "id": 1405695, "predecessors": [{"name": "Cá_ăn_được", "id": 1405873}, {"name": "Nông_nghiệp", "id": 7510}], "successors": [{"name": "Khoa_học_thủy_sản", "id": 2430966}]}

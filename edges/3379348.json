@@ -1,1 +1,1 @@
-{"name": "Phim_lấy_bối_cảnh_ở_Illinois", "id": 3379348, "predecessors": [{"name": "Xã_hội_Mỹ", "id": 1585299}], "successors": [{"name": "Phim_lấy_bối_cảnh_ở_Chicago", "id": 3379346}]}
+{"name": "Phim_lấy_bối_cảnh_ở_Illinois", "id": 3379348, "predecessors": [{"name": "Văn_hóa_Mỹ", "id": 42415}, {"name": "Phim_lấy_bối_cảnh_ở_Hoa_Kỳ", "id": 2453867}], "successors": [{"name": "Phim_lấy_bối_cảnh_ở_Chicago", "id": 3379346}]}

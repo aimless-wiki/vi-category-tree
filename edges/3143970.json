@@ -1,1 +1,1 @@
-{"name": "Xoay_tròn", "id": 3143970, "predecessors": [{"name": "Chuyển_động", "id": 396930}, {"name": "Cơ_học_cổ_điển", "id": 68448}], "successors": [{"name": "Góc", "id": 25882}, {"name": "Máy_xoay_tròn", "id": 3143966}]}
+{"name": "Xoay_tròn", "id": 3143970, "predecessors": [{"name": "Cơ_học_cổ_điển", "id": 68448}, {"name": "Cơ_học", "id": 1375}], "successors": [{"name": "Góc", "id": 25882}, {"name": "Động_cơ", "id": 43050}]}

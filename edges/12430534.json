@@ -1,1 +1,1 @@
-{"name": "Nữ_nhạc_sĩ_thế_kỷ_20", "id": 12430534, "predecessors": [{"name": "Nhạc_sĩ_thế_kỷ_20", "id": 3239607}, {"name": "Nữ_nghệ_sĩ_thế_kỷ_20", "id": 12430536}], "successors": [{"name": "Nữ_ca_sĩ_thế_kỷ_20", "id": 12430528}]}
+{"name": "Nữ_nhạc_sĩ_thế_kỷ_20", "id": 12430534, "predecessors": [{"name": "Nữ_nghệ_sĩ_thế_kỷ_20", "id": 12430536}, {"name": "Nghệ_thuật", "id": 6515}, {"name": "Nữ_giới", "id": 2979924}, {"name": "Nghề_nghiệp_trong_công_nghiệp_âm_nhạc", "id": 2413550}], "successors": [{"name": "Nữ_ca_sĩ_thế_kỷ_20", "id": 12430528}]}

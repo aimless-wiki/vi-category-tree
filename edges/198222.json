@@ -1,1 +1,1 @@
-{"name": "Nhà_soạn_nhạc_Ý", "id": 198222, "predecessors": [{"name": "Nhạc_sĩ_Ý", "id": 826731}, {"name": "Âm_nhạc_Ý", "id": 371430}], "successors": [{"name": "Nhà_soạn_nhạc_opera_Ý", "id": 198223}]}
+{"name": "Nhà_soạn_nhạc_Ý", "id": 198222, "predecessors": [{"name": "Nhà_soạn_nhạc", "id": 38046}, {"name": "Nghề_nghiệp_trong_công_nghiệp_âm_nhạc", "id": 2413550}, {"name": "Giải_trí", "id": 6073}], "successors": []}

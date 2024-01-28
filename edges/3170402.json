@@ -1,1 +1,1 @@
-{"name": "Thuốc_chẹn_beta", "id": 3170402, "predecessors": [{"name": "Bệnh_học_tim", "id": 2431438}], "successors": []}
+{"name": "Thuốc_chẹn_beta", "id": 3170402, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Hóa_sinh", "id": 4618}], "successors": []}

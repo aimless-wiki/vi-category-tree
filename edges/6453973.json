@@ -1,1 +1,1 @@
-{"name": "Khu_định_cư_cảng_Nhật_Bản", "id": 6453973, "predecessors": [{"name": "Cảng_Nhật_Bản", "id": 6529881}], "successors": [{"name": "Yokohama", "id": 78232}]}
+{"name": "Khu_định_cư_cảng_Nhật_Bản", "id": 6453973, "predecessors": [{"name": "Vùng_nước", "id": 193323}], "successors": [{"name": "Người_Nagoya", "id": 3416719}, {"name": "Người_Yokohama", "id": 405120}, {"name": "Khu_của_Yokohama", "id": 577107}]}

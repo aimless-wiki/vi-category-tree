@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_y_học", "id": 2420736, "predecessors": [{"name": "Y_học", "id": 8417}], "successors": []}
+{"name": "Bản_mẫu_y_học", "id": 2420736, "predecessors": [{"name": "Bản_mẫu_sinh_học", "id": 13713300}, {"name": "Y_học", "id": 8417}, {"name": "Bản_mẫu", "id": 502043}], "successors": [{"name": "Bản_mẫu_liên_kết_ngoài_y_học", "id": 2420735}]}

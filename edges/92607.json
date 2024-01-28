@@ -1,1 +1,1 @@
-{"name": "Hãng_hàng_không_vận_tải", "id": 92607, "predecessors": [{"name": "Hãng_hàng_không", "id": 92608}, {"name": "Hàng_không", "id": 29202}], "successors": []}
+{"name": "Hãng_hàng_không_vận_tải", "id": 92607, "predecessors": [{"name": "Dạng_thực_thể_kinh_doanh", "id": 1706843}, {"name": "Hàng_không", "id": 29202}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hãng_hàng_không_Campuchia", "id": 249738, "predecessors": [{"name": "Du_lịch_Campuchia", "id": 323543}, {"name": "Hãng_hàng_không", "id": 92608}, {"name": "Giao_thông_Campuchia", "id": 154512}, {"name": "Kinh_tế_Campuchia", "id": 77483}], "successors": [{"name": "Hãng_hàng_không_Campuchia_ngừng_hoạt_động", "id": 19685259}]}
+{"name": "Hãng_hàng_không_Campuchia", "id": 249738, "predecessors": [{"name": "Giao_thông", "id": 7509}, {"name": "Du_lịch", "id": 4633}, {"name": "Hàng_không", "id": 29202}, {"name": "Luật_kinh_doanh", "id": 310579}], "successors": []}

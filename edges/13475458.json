@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_tuyến_đường_sắt_Nhật_Bản", "id": 13475458, "predecessors": [{"name": "Bản_mẫu_bản_đồ_tuyến_đường_sắt", "id": 3646530}, {"name": "Bản_mẫu_giao_thông_đường_sắt_Nhật_Bản", "id": 13257485}], "successors": [{"name": "Bản_mẫu_Công_ty_Đường_sắt_Đông_Nhật_Bản", "id": 13191042}]}
+{"name": "Bản_mẫu_tuyến_đường_sắt_Nhật_Bản", "id": 13475458, "predecessors": [{"name": "Bản_mẫu_vận_tải_đường_sắt", "id": 3646538}, {"name": "Bản_mẫu_công_nghệ_và_khoa_học_ứng_dụng", "id": 1739318}], "successors": [{"name": "Bản_mẫu_Công_ty_Đường_sắt_Đông_Nhật_Bản", "id": 13191042}]}

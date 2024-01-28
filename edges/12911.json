@@ -1,1 +1,1 @@
-{"name": "Bệnh_lây_truyền_qua_đường_tình_dục", "id": 12911, "predecessors": [{"name": "Sinh_sản_con_người", "id": 3247386}, {"name": "Tình_dục", "id": 32772}], "successors": [{"name": "HIV/AIDS", "id": 12909}]}
+{"name": "Bệnh_lây_truyền_qua_đường_tình_dục", "id": 12911, "predecessors": [{"name": "Bệnh_da_liễu", "id": 106050}, {"name": "Tình_dục", "id": 32772}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "HIV/AIDS", "id": 12909}]}

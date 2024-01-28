@@ -1,1 +1,1 @@
-{"name": "Khu_dân_cư_ở_tỉnh_Valencia", "id": 14787407, "predecessors": [{"name": "Địa_lý_tỉnh_Valencia", "id": 14787503}, {"name": "Địa_lý_Tây_Ban_Nha", "id": 40486}], "successors": [{"name": "Đô_thị_ở_Valencia", "id": 365255}, {"name": "Người_Valencia", "id": 14787340}]}
+{"name": "Khu_dân_cư_ở_tỉnh_Valencia", "id": 14787407, "predecessors": [{"name": "Địa_lý_tỉnh_Valencia", "id": 14787503}, {"name": "Tất_cả", "id": 24901}, {"name": "Dân_số", "id": 47290}], "successors": [{"name": "Đô_thị_ở_Valencia", "id": 365255}]}

@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_Lớp_Chân_đầu", "id": 19679943, "predecessors": [{"name": "Lớp_Chân_đầu", "id": 406869}], "successors": []}
+{"name": "Sơ_khai_Lớp_Chân_đầu", "id": 19679943, "predecessors": [{"name": "Sơ_khai_động_vật", "id": 299762}, {"name": "Động_vật_có_thể_đổi_màu", "id": 1439362}], "successors": []}

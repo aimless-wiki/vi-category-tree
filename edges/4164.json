@@ -1,0 +1,1 @@
+{"name": "Virus_học", "id": 4164, "predecessors": [{"name": "Bệnh_truyền_nhiễm", "id": 12910}, {"name": "Vi_sinh_vật_học", "id": 12912}], "successors": [{"name": "Virus", "id": 17161}, {"name": "Đại_dịch", "id": 645418}]}

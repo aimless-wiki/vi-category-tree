@@ -1,1 +1,1 @@
-{"name": "Toán_học_tài_chính", "id": 8499, "predecessors": [{"name": "Toán_kinh_tế", "id": 54907}], "successors": [{"name": "Lãi_suất", "id": 119950}, {"name": "Tỷ_số_tài_chính", "id": 383824}]}
+{"name": "Toán_học_tài_chính", "id": 8499, "predecessors": [{"name": "Toán_học_ứng_dụng", "id": 4152}, {"name": "Toán_kinh_tế", "id": 54907}, {"name": "Môn_học", "id": 24904}], "successors": [{"name": "Tỷ_số_tài_chính", "id": 383824}]}

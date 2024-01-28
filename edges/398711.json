@@ -1,1 +1,1 @@
-{"name": "Công_ty_Hàn_Quốc", "id": 398711, "predecessors": [{"name": "Kinh_tế_Hàn_Quốc", "id": 35854}, {"name": "Công_ty", "id": 62090}, {"name": "Kinh_tế_Triều_Tiên", "id": 1489228}], "successors": []}
+{"name": "Công_ty_Hàn_Quốc", "id": 398711, "predecessors": [{"name": "Kinh_tế", "id": 5765}, {"name": "Luật_kinh_doanh", "id": 310579}], "successors": [{"name": "Sơ_khai_công_ty_Hàn_Quốc", "id": 2457750}, {"name": "Chaebol", "id": 3240503}, {"name": "Samsung", "id": 466902}, {"name": "Cầu_thủ_bóng_đá_Jeju_United_FC", "id": 13622927}]}

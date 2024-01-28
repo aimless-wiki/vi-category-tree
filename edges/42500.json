@@ -1,1 +1,1 @@
-{"name": "Máy_bay_chiến_đấu_Liên_Xô_và_Nga", "id": 42500, "predecessors": [{"name": "Khoa_học_và_công_nghệ_Nga", "id": 49033}], "successors": []}
+{"name": "Máy_bay_chiến_đấu_Liên_Xô_và_Nga", "id": 42500, "predecessors": [{"name": "Máy_bay_chiến_đấu", "id": 47888}, {"name": "Khoa_học_và_công_nghệ_Nga", "id": 49033}], "successors": []}

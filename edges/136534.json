@@ -1,1 +1,1 @@
-{"name": "Tổ_chức_nhân_quyền", "id": 136534, "predecessors": [{"name": "Nhân_quyền", "id": 91307}], "successors": []}
+{"name": "Tổ_chức_nhân_quyền", "id": 136534, "predecessors": [{"name": "Nhân_quyền", "id": 91307}, {"name": "Chính_phủ", "id": 48944}, {"name": "Chính_trị", "id": 6853}], "successors": [{"name": "Tổ_chức_nhân_quyền_quốc_tế", "id": 3211543}]}

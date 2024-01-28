@@ -1,1 +1,1 @@
-{"name": "Mạng_không_dây", "id": 66351, "predecessors": [{"name": "Không_dây", "id": 15132446}, {"name": "Mạng_máy_tính", "id": 1541}], "successors": [{"name": "Bluetooth", "id": 2413168}, {"name": "Wi-Fi", "id": 3184853}]}
+{"name": "Mạng_không_dây", "id": 66351, "predecessors": [{"name": "Mạng_máy_tính", "id": 1541}, {"name": "Công_nghệ", "id": 2208}, {"name": "Thuật_ngữ_truyền_hình", "id": 2451365}], "successors": []}

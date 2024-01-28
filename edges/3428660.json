@@ -1,1 +1,1 @@
-{"name": "Samsung_Galaxy", "id": 3428660, "predecessors": [{"name": "Thiết_bị_Android", "id": 1615050}, {"name": "Điện_thoại_thông_minh", "id": 341265}], "successors": [{"name": "Samsung_Galaxy_Note_series", "id": 2490403}]}
+{"name": "Samsung_Galaxy", "id": 3428660, "predecessors": [{"name": "Sản_phẩm_của_Samsung_Electronics", "id": 2428688}, {"name": "Thiết_bị_Android", "id": 1615050}], "successors": [{"name": "Samsung_Galaxy_Note_series", "id": 2490403}]}

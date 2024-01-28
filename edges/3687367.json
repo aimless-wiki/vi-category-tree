@@ -1,1 +1,1 @@
-{"name": "Lý_thuyết_kiểu", "id": 3687367, "predecessors": [{"name": "Lý_thuyết_ngôn_ngữ_lập_trình", "id": 574964}], "successors": [{"name": "Hệ_thống_kiểu", "id": 3688751}]}
+{"name": "Lý_thuyết_kiểu", "id": 3687367, "predecessors": [{"name": "Logic_toán", "id": 503895}, {"name": "Ngôn_ngữ_lập_trình", "id": 8758}], "successors": []}

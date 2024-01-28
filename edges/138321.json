@@ -1,1 +1,1 @@
-{"name": "Warszawa", "id": 138321, "predecessors": [{"name": "Thủ_đô_châu_Âu", "id": 10393}], "successors": [{"name": "Quận_của_Warszawa", "id": 198751}, {"name": "Công_trình_xây_dựng_ở_Warszawa", "id": 3430225}]}
+{"name": "Warszawa", "id": 138321, "predecessors": [{"name": "Huyện_thành_phố_của_Ba_Lan", "id": 14197383}, {"name": "Thủ_đô_châu_Âu", "id": 10393}, {"name": "Quy_hoạch_đô_thị", "id": 4665}], "successors": [{"name": "Quận_của_Warszawa", "id": 198751}, {"name": "Công_trình_xây_dựng_ở_Warszawa", "id": 3430225}]}

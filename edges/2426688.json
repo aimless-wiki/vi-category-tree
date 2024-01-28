@@ -1,1 +1,1 @@
-{"name": "Hóa_chất_mỹ_phẩm", "id": 2426688, "predecessors": [{"name": "Mỹ_phẩm", "id": 862679}], "successors": [{"name": "Vật_liệu_sản_xuất_nước_hoa", "id": 2393069}]}
+{"name": "Hóa_chất_mỹ_phẩm", "id": 2426688, "predecessors": [{"name": "Hóa_chất_gia_dụng", "id": 2426686}, {"name": "Hợp_chất_hóa_học", "id": 12958}, {"name": "Mỹ_phẩm", "id": 862679}], "successors": [{"name": "Vật_liệu_sản_xuất_nước_hoa", "id": 2393069}]}

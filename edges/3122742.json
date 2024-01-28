@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_trên_iOS", "id": 3122742, "predecessors": [{"name": "Phần_mềm_cho_iOS", "id": 2420841}], "successors": [{"name": "Trò_chơi_trên_iPad", "id": 3242851}, {"name": "Trò_chơi_trên_iPhone", "id": 3242853}]}
+{"name": "Trò_chơi_trên_iOS", "id": 3122742, "predecessors": [{"name": "Phần_mềm_cho_iOS", "id": 2420841}, {"name": "Trò_chơi_trên_thiết_bị_di_động", "id": 2413181}], "successors": [{"name": "Trò_chơi_trên_iPad", "id": 3242851}, {"name": "Trò_chơi_trên_iPhone", "id": 3242853}]}

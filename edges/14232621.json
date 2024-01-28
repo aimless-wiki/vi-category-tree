@@ -1,1 +1,1 @@
-{"name": "Thành_phố_cảng_biển_Bắc", "id": 14232621, "predecessors": [{"name": "Thành_phố_cảng_châu_Âu", "id": 11814986}, {"name": "Biển_Bắc", "id": 1617437}], "successors": []}
+{"name": "Thành_phố_cảng_biển_Bắc", "id": 14232621, "predecessors": [{"name": "Giao_thông", "id": 7509}, {"name": "Thành_phố_cảng", "id": 58217}, {"name": "Vùng_nước", "id": 193323}], "successors": []}

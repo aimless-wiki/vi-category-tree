@@ -1,1 +1,1 @@
-{"name": "Video_âm_nhạc_đen_trắng", "id": 3260864, "predecessors": [{"name": "Phim_trắng_đen", "id": 357738}, {"name": "Video_âm_nhạc", "id": 3134921}, {"name": "Phương_tiện_truyền_thông_nghệ_thuật", "id": 13742699}], "successors": []}
+{"name": "Video_âm_nhạc_đen_trắng", "id": 3260864, "predecessors": [{"name": "Phim_trắng_đen", "id": 357738}, {"name": "Phim_về_âm_nhạc_và_nhạc_sĩ", "id": 3245241}, {"name": "Nghệ_thuật_thị_giác", "id": 27766}], "successors": []}

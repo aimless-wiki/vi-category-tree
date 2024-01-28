@@ -1,1 +1,1 @@
-{"name": "Tổ_chức_tiêu_chuẩn", "id": 68450, "predecessors": [{"name": "Cơ_quan_chính_phủ", "id": 334699}, {"name": "Tiêu_chuẩn", "id": 17654}], "successors": [{"name": "ISO", "id": 56993}, {"name": "Chương_trình_đánh_giá_xe_mới", "id": 14920693}]}
+{"name": "Tổ_chức_tiêu_chuẩn", "id": 68450, "predecessors": [{"name": "Tiêu_chuẩn", "id": 17654}, {"name": "Đo_lường", "id": 300982}, {"name": "Khoa_học_ứng_dụng", "id": 3082}, {"name": "Chính_phủ", "id": 48944}, {"name": "Công_nghệ", "id": 2208}], "successors": []}

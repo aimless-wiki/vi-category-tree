@@ -1,1 +1,1 @@
-{"name": "Xe", "id": 31661, "predecessors": [{"name": "Máy_móc", "id": 491738}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "Xe_gắn_máy", "id": 327660}]}
+{"name": "Xe", "id": 31661, "predecessors": [{"name": "Phương_tiện_giao_thông", "id": 29193}, {"name": "Dụng_cụ", "id": 38805}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "Xe_hơi", "id": 72116}]}

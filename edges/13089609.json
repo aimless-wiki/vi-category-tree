@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_theo_năm", "id": 13089609, "predecessors": [{"name": "Trò_chơi", "id": 38811}], "successors": []}
+{"name": "Trò_chơi_theo_năm", "id": 13089609, "predecessors": [{"name": "Luật_bản_quyền", "id": 46619}, {"name": "Bản_thể_học", "id": 1439388}, {"name": "Trò_chơi", "id": 38811}, {"name": "Năm", "id": 335048}], "successors": []}

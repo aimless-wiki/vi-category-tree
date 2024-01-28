@@ -1,1 +1,1 @@
-{"name": "Người_tự_sát_ở_Việt_Nam", "id": 3429744, "predecessors": [{"name": "Y_tế_Việt_Nam", "id": 94524}, {"name": "Tội_phạm_ở_Việt_Nam", "id": 1737793}], "successors": []}
+{"name": "Người_tự_sát_ở_Việt_Nam", "id": 3429744, "predecessors": [{"name": "Người_tự_sát", "id": 89565}, {"name": "Việt_Nam", "id": 4189}, {"name": "Tội_phạm", "id": 39511}], "successors": []}

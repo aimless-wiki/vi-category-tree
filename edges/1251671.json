@@ -1,1 +1,1 @@
-{"name": "Thánh_ca", "id": 1251671, "predecessors": [{"name": "Ca_hát", "id": 1446016}, {"name": "Âm_nhạc_Cơ_Đốc", "id": 68569}, {"name": "Bài_hát", "id": 38114}], "successors": [{"name": "Ca_khúc_Giáng_sinh", "id": 68568}, {"name": "Thánh_Vịnh", "id": 1264603}]}
+{"name": "Thánh_ca", "id": 1251671, "predecessors": [{"name": "Kitô_giáo", "id": 3478}, {"name": "Tất_cả", "id": 24901}, {"name": "Lý_thuyết_âm_nhạc", "id": 48865}], "successors": [{"name": "Ca_khúc_Giáng_sinh", "id": 68568}]}

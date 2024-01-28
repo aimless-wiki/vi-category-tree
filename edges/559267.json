@@ -1,1 +1,1 @@
-{"name": "Người_viết_blog", "id": 559267, "predecessors": [{"name": "Blog", "id": 56247}, {"name": "Nhà_văn", "id": 6284}], "successors": [{"name": "Vlogger", "id": 3124078}]}
+{"name": "Người_viết_blog", "id": 559267, "predecessors": [{"name": "Blog", "id": 56247}, {"name": "Người_nổi_tiếng_trên_mạng", "id": 14592031}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Vlogger", "id": 3124078}, {"name": "Người_viết_blog_nữ", "id": 3210345}]}

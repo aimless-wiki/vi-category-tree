@@ -1,1 +1,1 @@
-{"name": "Alcohol", "id": 250086, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}, {"name": "Rượu", "id": 13469}], "successors": []}
+{"name": "Alcohol", "id": 250086, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}, {"name": "Rượu", "id": 13469}], "successors": [{"name": "Lớp_phenol", "id": 2443142}, {"name": "Alcohol_bậc_một", "id": 14835858}, {"name": "Diol", "id": 7511269}]}
