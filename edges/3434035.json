@@ -1,1 +1,1 @@
-{"name": "Phim_dựa_theo_tác_phẩm_của_nhà_văn", "id": 3434035, "predecessors": [{"name": "Phim_dựa_theo_tác_phẩm", "id": 2510849}], "successors": [{"name": "Phim_dựa_theo_truyện_cổ_Grimm", "id": 585483}]}
+{"name": "Phim_dựa_theo_tác_phẩm_của_nhà_văn", "id": 3434035, "predecessors": [{"name": "Phim_dựa_theo_tác_phẩm", "id": 2510849}], "successors": [{"name": "Phim_dựa_theo_truyện_cổ_Grimm", "id": 585483}, {"name": "Phim_dựa_theo_truyện_tranh", "id": 2510715}]}

@@ -1,1 +1,1 @@
-{"name": "Quán_cà_phê", "id": 94127, "predecessors": [{"name": "Nhà_hàng_theo_loại", "id": 19793584}], "successors": []}
+{"name": "Quán_cà_phê", "id": 94127, "predecessors": [{"name": "Thức_ăn_nhanh", "id": 495014}, {"name": "Cà_phê", "id": 8388}, {"name": "Thiết_kế", "id": 37651}], "successors": []}
