@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_lấy_dữ_liệu_từ_Wikidata", "id": 2434126, "predecessors": [{"name": "Bản_mẫu", "id": 502043}, {"name": "Quản_lý_Wikipedia", "id": 5945}], "successors": [{"name": "Bản_mẫu_liên_kết_ngoài_sử_dụng_Wikidata", "id": 14716004}]}
+{"name": "Bản_mẫu_lấy_dữ_liệu_từ_Wikidata", "id": 2434126, "predecessors": [{"name": "Bản_mẫu_Wikidata", "id": 3508969}], "successors": [{"name": "Bản_mẫu_liên_kết_ngoài_sử_dụng_Wikidata", "id": 14716004}]}

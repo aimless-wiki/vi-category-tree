@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_liên_kết_ngoài_sinh_học", "id": 2424666, "predecessors": [{"name": "Bản_mẫu_liên_kết_ngoài", "id": 1039126}, {"name": "Bản_mẫu_sinh_học", "id": 13713300}], "successors": [{"name": "Bản_mẫu_liên_kết_ngoài_y_học", "id": 2420735}]}
+{"name": "Bản_mẫu_liên_kết_ngoài_sinh_học", "id": 2424666, "predecessors": [{"name": "Bản_mẫu_liên_kết_ngoài", "id": 1039126}, {"name": "Bản_mẫu_sinh_học", "id": 13713300}], "successors": [{"name": "Bản_mẫu_liên_kết_ngoài_y_học", "id": 2420735}, {"name": "Bản_mẫu_liên_kết_ngoài_thực_vật_học", "id": 19669386}]}
