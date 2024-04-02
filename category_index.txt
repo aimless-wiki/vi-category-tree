@@ -663,7 +663,6 @@
 19568 Mất_năm_1726
 19571 Sinh_năm_1728
 19575 Sinh_năm_1730
-19576 Mất_năm_1730
 19580 Sinh_năm_1732
 19582 Sinh_năm_1733
 19584 Sinh_năm_1734
@@ -961,6 +960,7 @@
 21846 Mất_năm_1661
 21875 Mất_năm_1675
 21885 Mất_năm_1680
+21890 Sinh_năm_1683
 21920 Sinh_năm_1697
 22042 Đạo_giáo
 22074 Thành_phố_của_Trung_Quốc
@@ -1233,7 +1233,6 @@
 29396 Công_ty_Đức
 29473 Thế_vận_hội_Mùa_đông
 29617 Thành_phố_New_York
-29705 Diễn_viên_Hàn_Quốc
 29706 Diễn_viên_Hồng_Kông
 29735 Kiến_trúc_sư_nhận_giải_thưởng_AIA
 29755 Văn_minh
@@ -2345,6 +2344,7 @@
 67869 Đĩa_đơn_năm_2002
 67872 Bài_hát_năm_2000
 67876 Đảo_Indonesia
+67885 Nhà_báo
 67898 Đĩa_đơn_năm_1998
 67899 Bài_hát_năm_1998
 68030 Hình_thuộc_phạm_vi_công_cộng_ở_Hoa_Kỳ
@@ -3005,7 +3005,6 @@
 116557 IUCN_Loại_II
 116657 Bộ_trưởng_Bộ_Quốc_phòng_Hoa_Kỳ
 116915 Mô_hình_kinh_doanh
-117034 Shiga
 117477 Thời_kỳ_Minh_Trị
 117481 Chiến_tranh_Nga–Nhật
 117482 Đế_quốc_Nhật_Bản
@@ -4047,7 +4046,6 @@
 280239 Vương_tộc_Valois
 280240 Gipuzkoa
 280242 Phim_tiếng_Anh
-280243 Cần_làm
 280251 Lưu_trữ_Thảo_luận
 280254 Nhân_vật_còn_sống
 280262 Danh_sách_vua_Việt_Nam
@@ -5014,6 +5012,7 @@
 421172 Tân_La
 421245 Tướng_nhà_Bắc_Ngụy
 421581 Vua_nhà_Triều_Tiên
+421733 Tài_khoản_bóng
 422115 Bài_chưa_xếp_loại_chất_lượng_về_Văn_học
 422116 Chưa_xếp_độ_quan_trọng_về_Văn_học
 422121 Bài_chất_lượng_B_về_Văn_học
@@ -5306,7 +5305,6 @@
 473611 Giải_Thiên_văn_học
 473785 Album_của_Shakira
 473839 Khí_công
-474003 Việc_cần_làm_về_Chiến_tranh_thế_giới_thứ_hai_theo_mức_độ_ưu_tiên2
 474208 Người_Pháp_đoạt_giải_Nobel
 474480 Học_thuyết_quân_sự
 474611 Tiểu_hành_tinh_kiểu_S
@@ -5422,6 +5420,7 @@
 488825 Thiên_thể_phát_hiện_năm_1907
 488987 Hành_chính_Thanh_Hóa
 489274 Tàu_tuần_dương_trong_Thế_Chiến_II
+489304 Chiến_tranh_liên_quan_tới_Campuchia
 489551 Ca_sĩ_nhạc_trẻ_Việt_Nam
 489564 Quận_của_Idaho
 489567 Quận_của_Missouri
@@ -5548,7 +5547,7 @@
 500495 Ngày_lễ_Hoa_Kỳ
 500708 Bài_hát_năm_1994
 500717 Bài_hát_năm_1992
-500726 Sơ_khai_tỉnh_Alpes-de-Haute-Provence
+500726 Sơ_khai_địa_lý_Alpes-de-Haute-Provence
 500941 Đô_thị_của_Boyacá
 501423 Khu_dân_cư_ở_tỉnh_Boyacá
 501436 Người_Mỹ_gốc_Canada
@@ -8575,6 +8574,7 @@
 1446232 Thiết_kế_giao_tiếp
 1446244 Huyện_thuộc_tỉnh_Ankara
 1446573 Luật_sư_Pháp
+1448302 Khẩu_hiệu
 1449072 Chim_Nouvelle-Calédonie
 1449821 Pháp_năm_1871
 1449895 Chim_Đông_Timor
@@ -9710,7 +9710,7 @@
 1677431 Sơ_khai_Hy_Lạp
 1677434 Sơ_khai_địa_lý_Slovenia
 1677437 Sơ_khai_địa_lý_Lào
-1677439 Sơ_khai_bang_Alagoas
+1677439 Sơ_khai_địa_lý_Alagoas
 1677440 Sơ_khai_địa_lý_tỉnh_Antioquia
 1677441 Sơ_khai_địa_lý_tỉnh_Cundinamarca
 1677442 Sơ_khai_địa_lý_bang_Espirito_Santo
@@ -10160,7 +10160,7 @@
 1699543 Tài_nguyên_thiên_nhiên
 1699721 Quốc_gia_thành_viên_Khối_Thịnh_vượng_chung_Anh
 1699723 Quốc_gia_thành_viên_Liên_minh_châu_Âu
-1699727 Sơ_khai_tỉnh_Ain
+1699727 Sơ_khai_địa_lý_Ain
 1699729 Quốc_gia_thành_viên_NATO
 1699735 Tổ_chức_liên_chính_phủ
 1699747 Quốc_gia_thành_viên_Ủy_hội_châu_Âu
@@ -11319,6 +11319,7 @@
 2423900 Phần_mềm_giáo_dục_miễn_phí
 2423912 Sơ_khai_Lớp_Nhện_biển
 2423935 Sơ_khai_Họ_Rắn_hổ
+2423947 Sơ_khai_địa_lý_Gruzia
 2423957 Đĩa_đơn_năm_1969
 2423961 Thực_vật_quần_đảo_Ryukyu
 2423962 Thực_vật_Thái_Bình_Dương
@@ -11340,7 +11341,6 @@
 2424433 Lịch_sử_Hoa_Kỳ_(1918–45)
 2424436 Văn_hóa_München
 2424500 Phổ_điện_từ
-2424654 Nữ_diễn_viên_Hàn_Quốc
 2424665 Bản_mẫu_tài_nguyên_sinh_học
 2424666 Bản_mẫu_liên_kết_ngoài_sinh_học
 2424726 Hãng_đĩa_thu_âm_nhạc_Pop
@@ -12136,6 +12136,7 @@
 2449120 Chiến_tranh_Afghanistan_(2001–2021)
 2449133 Thuật_ngữ_opera_Ý
 2449134 Từ_ngữ_tiếng_Ý
+2449136 Thuật_ngữ_opera
 2449360 Agriocnemis
 2449429 Họa_sĩ_Mỹ_thế_kỷ_20
 2449479 Chi_chuồn_chuồn_đơn_loài
@@ -16071,6 +16072,7 @@
 3124616 Tarsius
 3124636 Sơ_khai_Lớp_Cá_sụn
 3124844 Hàng_điện_tử_gia_dụng
+3124964 Bài_hát_tiếng_Quan_thoại
 3124987 Quận_Dalseo
 3124992 Quận_Dong,_Daegu
 3125032 Sơ_khai_Họ_Dương_xỉ
@@ -17033,7 +17035,6 @@
 3201329 Sơ_khai_địa_lý_Pyrénées-Atlantiques
 3201331 Sơ_khai_tỉnh_Oise
 3201335 Sơ_khai_tỉnh_Loire-Atlantique
-3201337 Sơ_khai_tỉnh_Aisne
 3201343 Sơ_khai_tỉnh_Essonne
 3201345 Sơ_khai_tỉnh_Ariège
 3201347 Sơ_khai_tỉnh_Hérault
@@ -17050,7 +17051,7 @@
 3201438 Sơ_khai_tỉnh_Moselle
 3201453 Sơ_khai_tỉnh_Haute-Savoie
 3201522 Sơ_khai_tỉnh_Eure-et-Loir
-3201556 Sơ_khai_tỉnh_Allier
+3201556 Sơ_khai_địa_lý_Allier
 3201563 Sơ_khai_tỉnh_Hautes-Alpes
 3201566 Sơ_khai_địa_lý_Gironde
 3201569 Sơ_khai_tỉnh_Yonne
@@ -17335,6 +17336,7 @@
 3210958 Sách_Trung_Quốc
 3211051 Bản_mẫu_nội_dung_chọn_lọc_Wikipedia
 3211077 Neurothemis
+3211124 Sơ_khai_Abkhazia
 3211168 Ngôn_ngữ_tại_Ý
 3211366 Hợp_chất_arsenic
 3211483 Nữ_diễn_viên_Thái_Lan
@@ -17449,7 +17451,7 @@
 3218773 Sơ_khai_địa_lý_tỉnh_Hatay
 3218775 Sơ_khai_địa_lý_tỉnh_Edirne
 3218821 Sơ_khai_địa_lý_tỉnh_Sakarya
-3218823 Sơ_khai_địa_lý_tỉnh_Aksaray
+3218823 Sơ_khai_địa_lý_Aksaray
 3218826 Sơ_khai_địa_lý_tỉnh_Van
 3218828 Sơ_khai_địa_lý_tỉnh_Sinop
 3218837 Sơ_khai_địa_lý_tỉnh_Kastamonu
@@ -17467,7 +17469,7 @@
 3220426 Sơ_khai_địa_lý_tỉnh_Sivas
 3220428 Sơ_khai_địa_lý_tỉnh_Nevşehir
 3220430 Sơ_khai_địa_lý_tỉnh_Çanakkale
-3220435 Sơ_khai_địa_lý_tỉnh_Ağrı
+3220435 Sơ_khai_địa_lý_Ağrı_(tỉnh)
 3220437 Sơ_khai_địa_lý_tỉnh_Ordu
 3220443 Sơ_khai_địa_lý_tỉnh_Yozgat
 3220449 Sơ_khai_địa_lý_tỉnh_Bartın
@@ -19593,7 +19595,6 @@
 3366175 Cưỡng_dâm_trong_các_tác_phẩm_giả_tưởng
 3366343 Phát_minh_của_Ấn_Độ
 3366465 Chết_vì_ung_thư_tuyến_tiền_liệt
-3366485 Nội_dung_chờ_xác_nhận_giấy_phép_VRT
 3366502 Phát_minh_của_Nhật_Bản
 3366623 Ga_tàu_điện_ngầm_ở_quận_Mapo
 3367059 Phát_minh_của_Hungary
@@ -20070,6 +20071,7 @@
 3400739 Anime_năm_2011
 3400740 Anime_năm_2012
 3400741 Anime_năm_2013
+3401044 Bài_hát_năm_1958
 3401045 Bài_hát_năm_1965
 3401046 Bài_hát_năm_1966
 3401047 Bài_hát_năm_1967
@@ -20249,7 +20251,6 @@
 3413522 Loài_đặc_hữu_của_Colombia
 3413523 Loài_đặc_hữu_của_Peru
 3413524 Loài_đặc_hữu_của_Ấn_Độ
-3413783 Thực_vật_Tây_Canada
 3413787 Nơi_đông_dân_ở_huyện_Kutná_Hora
 3413798 Địa_điểm_khảo_cổ_ở_Ai_Cập
 3413799 Người_từ_Lviv
@@ -20333,7 +20334,6 @@
 3417367 Tên_gọi_tàu_thủy_Hải_quân_Hoa_Kỳ
 3417383 Tên_theo_văn_hóa
 3417398 Album_của_SM_Entertainment
-3417399 Album_của_Genie_Music
 3417401 Người_thành_phố_Kyoto
 3417421 Thực_vật_South_Dakota
 3417422 Thực_vật_Idaho
@@ -20591,7 +20591,6 @@
 3421824 Thực_vật_Java
 3421831 Thực_vật_Sierra_Leone
 3421832 Thực_vật_Tây_New_Guinea
-3421833 Thực_vật_thực_phẩm_chim
 3421860 Trò_chơi_điện_tử_hợp_tác
 3421874 Nhân_vật_quân_sự_Ngũ_Hồ_thập_lục_quốc
 3421885 Viên_chức_chính_quyền_ở_Sơn_Đông
@@ -20937,6 +20936,7 @@
 3521689 Sisyra
 3521699 Rapisma
 3521790 Prohemerobius
+3521815 Kami_Thần_đạo
 3522139 Tổ_chức_thành_viên_của_Mặt_trận_Tổ_quốc_Việt_Nam
 3522141 Ủy_viên_Ủy_ban_Trung_ương_Mặt_trận_Tổ_quốc_Việt_Nam
 3522205 Nusalala
@@ -21507,6 +21507,7 @@
 3679071 Hành_chính_Gia_Lai
 3679073 Hành_chính_Hà_Nam
 3679080 Bản_mẫu_lá_cờ_Thế_vận_hội
+3679356 Văn_hóa_Hồi_giáo
 3679482 Phim_và_người_giành_giải_Cánh_diều
 3679483 Thành_viên_Wikipedia_bảo_vệ_môi_trường
 3679484 Phim_giành_giải_Cánh_diều_vàng
@@ -21838,7 +21839,6 @@
 7457562 Nước_kém_phát_triển
 7459263 Nhóm_loài_do_Henry_Weed_Fowler_đặt_tên
 7460126 Sơ_khai_Bénin
-7460924 Truyền_hình_Việt_Nam_năm_2018
 7473112 Hộp_điều_hướng_Đại_hội_Thể_thao_châu_Á
 7474277 Bản_mẫu_ghi_chú_đầu_trang
 7475273 Nhóm_loài_do_Gilbert_Percy_Whitley_đặt_tên
@@ -22134,6 +22134,7 @@
 11463560 Đĩa_đơn_năm_2014
 11472831 Huân_chương_Quân_công_hạng_Nhì
 11476435 Nội_thân_vương_Nhật_Bản
+11503086 Tự_nhiên_và_tôn_giáo
 11511776 Sơ_khai_tỉnh_Cher
 11512827 Sơ_khai_tỉnh_Haute-Corse
 11515413 Bản_mẫu_đại_dương_và_biển
@@ -23050,6 +23051,7 @@
 14743073 Bảng_Unicode
 14744126 Nam_tiểu_thuyết_gia
 14744273 Nam_nhà_văn_Mỹ_thế_kỷ_20
+14744597 Trường_đại_học_và_cao_đẳng_tư_thục_ở_Hàn_Quốc
 14746358 Nữ_bộ_trưởng_ngoại_giao
 14746382 Quận_Cuyahoga,_Ohio
 14747847 Đô_đốc_Hải_quân_Quân_Giải_phóng_Nhân_dân_Trung_Quốc
@@ -23773,6 +23775,7 @@
 19515440 Sao_đôi_quang_phổ
 19515445 Sao_dãy_chính_nhóm_K
 19515473 Sao_dãy_chính_nhóm_F
+19515508 Hệ_ba_sao
 19515517 Thiên_thể_2MASS
 19515817 Đại_vương_công_Nga
 19515984 Đại_vương_công_Lietuva
@@ -24353,7 +24356,6 @@
 19664255 Nghệ_sĩ_SidusHQ
 19664569 Sơ_khai_tàu_chiến
 19664842 Cựu_học_sinh_Trường_Trung_học_Nghệ_thuật_Hanlim
-19665262 Nam_diễn_viên_Hàn_Quốc
 19665502 Phật_tử_Campuchia
 19665719 Được_phát_hiện_bởi_Chad_Trujillo
 19665842 Danh_sách_tòa_nhà_cao_nhất_theo_tỉnh_thành
@@ -24531,6 +24533,7 @@
 19733635 Tàu_ngầm_trong_Chiến_tranh_Lạnh
 19733636 Lớp_tàu_hộ_tống_khu_trục_John_C._Butler
 19733764 Cựu_sinh_viên_Trường_Đảng_Trung_ương_Đảng_Cộng_sản_Trung_Quốc
+19733797 Sự_cố_hàng_hải_năm_1945
 19734133 Gia_tộc_Zähringen
 19734183 Xe_Kia
 19734196 Ô_tô_thập_niên_2010
@@ -24841,6 +24844,7 @@
 19776048 Quận_Grand_Traverse,_Michigan
 19776229 Xã_đặc_quyền_của_Michigan
 19776578 Bài_hát_năm_2023
+19776581 Phim_truyền_hình_Thái_Lan_ra_mắt_năm_2023
 19776583 Phim_truyền_hình_Hàn_Quốc_ra_mắt_năm_2023
 19776939 Tài_khoản_con_rối_của_Quanluchn
 19778452 Đĩa_đơn_năm_2023
@@ -25021,6 +25025,7 @@
 19838040 Danh_sách_chọn_lọc_2024
 19841447 Sơ_khai_Slovakia
 19841525 Quận_của_Ōsaka_(thành_phố)
+19843914 Phim_truyền_hình_Hàn_Quốc_ra_mắt_năm_2024
 19844529 Chỉ_huy_quân_sự_Việt_Nam_trong_Chiến_tranh_Đông_Dương
 19844541 Nhà_nước_của_Liên_bang_Rhein
 19844697 Tàu_đổ_bộ_trong_Thế_Chiến_II
@@ -25053,6 +25058,7 @@
 19846255 Bản_mẫu_sơ_khai_chính_khách
 19847118 Cầu_thủ_Cúp_bóng_đá_châu_Á_2023
 19848528 Sơ_khai_Trung_Cổ
+19849565 Cầu_thủ_Cúp_Vàng_CONCACAF_2023
 19849835 Thị_trấn_của_bang_Brandenburg
 19849840 Thị_trấn_của_bang_Schleswig-Holstein
 19849842 Khu_dân_cư_ở_tỉnh_Kotayk
@@ -25079,3 +25085,4 @@
 19857140 Chưa_xếp_độ_quan_trọng_về_YouTube
 19857160 Quận_của_Nagoya
 19858003 Sơ_khai_hiện_tượng_siêu_thường
+19861633 Cựu_sinh_viên_HEC_Paris
