@@ -1,1 +1,1 @@
-{"name": "Sân_bay_Nga", "id": 76626, "predecessors": [{"name": "Kinh_tế_Nga", "id": 185764}, {"name": "Kinh_tế", "id": 5765}, {"name": "Du_lịch", "id": 4633}, {"name": "Vùng_của_châu_Á", "id": 1406494}], "successors": []}
+{"name": "Sân_bay_Nga", "id": 76626, "predecessors": [{"name": "Vùng_của_châu_Á", "id": 1406494}, {"name": "Kinh_tế", "id": 5765}, {"name": "Du_lịch", "id": 4633}], "successors": []}
