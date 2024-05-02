@@ -659,7 +659,6 @@
 19535 Sinh_năm_1711
 19537 Sinh_năm_1712
 19539 Sinh_năm_1713
-19542 Sinh_năm_1714
 19549 Sinh_năm_1717
 19555 Sinh_năm_1720
 19568 Mất_năm_1726
@@ -2547,6 +2546,7 @@
 78087 Ban_nhạc_Việt_Nam
 78161 Sân_bay_tại_California
 78198 Công_nghệ_bền_vững
+78228 Hokkaidō
 78400 Kyōto_(thành_phố)
 78448 Sân_bay_Ba_Lan
 78475 Nhân_vật_văn_học
@@ -5321,6 +5321,7 @@
 475140 Bộ_trưởng_Bộ_Văn_hóa_-_Thể_thao_và_Du_lịch_Việt_Nam
 475145 Da
 475543 Nauru
+475606 Người_Kōchi
 475712 Thiên_thể_phát_hiện_năm_1861
 475719 Người_Mỹ_gốc_Phần_Lan
 475861 Khủng_long_châu_Úc
@@ -5779,6 +5780,7 @@
 541156 Lịch_sử_Hà_Bắc
 541296 Kháng_sinh_Sulfonamide
 541307 Giải_vô_địch_bóng_đá_châu_Âu_2012
+541350 Giả_thuyết
 541637 Đô_thị_của_bang_Vaud
 543025 Phường_thuộc_quận_Hoàn_Kiếm
 543026 Phường_thuộc_quận_Hai_Bà_Trưng
@@ -6190,6 +6192,7 @@
 590538 Cảm_xúc
 590572 Bắc_Sumatra
 590825 Cosmopterigidae
+590995 Phim_ngắn
 591018 Ủy_viên_Bộ_Chính_trị_Ban_Chấp_hành_Trung_ương_Đảng_Cộng_sản_Việt_Nam_khóa_XI
 591155 Thiên_thể_phát_hiện_năm_2011
 591278 Quân_nhân_Pháp_trong_Chiến_tranh_Đông_Dương
@@ -9603,6 +9606,7 @@
 1646374 Ẩm_thực_Levant
 1646376 Ẩm_thực_Israel
 1646381 Ẩm_thực_Syria
+1646415 Ẩm_thực_Belarus
 1646417 Thị_trấn_của_Śląskie
 1646421 Sơ_khai_Bộ_Có_vảy
 1646422 Sơ_khai_Xyleninae
@@ -16796,7 +16800,6 @@
 3186342 Đĩa_đơn_năm_2015
 3186619 Indolestes
 3186628 Ung_thư_hiếm_gặp
-3186728 Bài_chưa_xếp_loại_chất_lượng_về_Giải_thưởng
 3186729 Bài_sơ_khai_về_Giải_thưởng
 3186730 Bài_chất_lượng_C_về_Giải_thưởng
 3186735 Danh_sách_chọn_lọc_về_Giải_thưởng
@@ -18049,11 +18052,11 @@
 3268198 Giống_ngỗng
 3268199 Giống_cừu
 3268204 Giống_dê
+3268479 Chương_trình_truyền_hình_quay_tại_Washington,_D.C.
 3268480 Chương_trình_truyền_hình_của_CBS_Television_Studios
 3268578 Bài_sơ_khai_về_Albania
 3268605 Chưa_xếp_độ_quan_trọng_về_Albania
 3268618 Bài_sơ_khai_về_Taylor_Swift
-3268619 Bài_chất_lượng_C_về_Taylor_Swift
 3268627 Ít_quan_trọng_về_Taylor_Swift
 3268629 Rất_quan_trọng_về_Taylor_Swift
 3268630 Đặc_biệt_quan_trọng_về_Taylor_Swift
@@ -20646,6 +20649,7 @@
 3422695 Nữ_diễn_viên_từ_Tokyo
 3422714 Sản_phẩm_phụ_truyền_hình
 3422730 Tàu_thủy_năm_1937
+3422731 Tàu_thủy_năm_1939
 3422732 Tàu_tuần_dương_Thế_chiến_thứ_hai_của_Nhật_Bản
 3422785 Thiết_giáp_hạm_Thế_chiến_thứ_hai_của_Nhật_Bản
 3422787 Thủ_đô_nước_cộng_hòa_thuộc_Nga
@@ -21103,6 +21107,7 @@
 3582717 Xưởng_phim_hoạt_hình_Nhật_Bản
 3595989 Tiểu_văn_hóa_Nhật_Bản
 3610088 EP_của_SM_Entertainment
+3624910 Nhà_khoa_học_chính_trị_Mỹ
 3625123 Bài_viết_chọn_lọc_2017
 3630411 Bóng_đá_châu_Á_năm_2012
 3631517 Tỉnh_Nariño
@@ -21636,6 +21641,7 @@
 3694120 WTA_Tour_2016
 3694194 Bản_mẫu_Hoa_Kỳ
 3695838 Thực_vật_nước_ngọt
+3696001 Bài_viết_chọn_lọc_về_Giám_mục_Công_giáo
 3696090 Bản_mẫu_nhạc_sĩ_K-pop
 3696096 Bản_mẫu_âm_nhạc_Hàn_Quốc
 3696102 Bản_mẫu_nhạc_sĩ_Hàn_Quốc
@@ -21730,6 +21736,7 @@
 3707844 Đệ_Nhất_Phu_nhân_Hoa_Kỳ
 3708347 Bài_chưa_xếp_loại_chất_lượng_về_Bóng_chuyền
 3708389 Bản_mẫu_bóng_chuyền
+3708415 Giải_đấu_bóng_đá_quốc_tế_tổ_chức_bởi_Pháp
 3708434 Tổ_chức_có_trụ_sở_tại_Pháp
 3709192 Nữ_nhà_văn_thế_kỷ_19
 3709393 Elachista
@@ -22246,6 +22253,7 @@
 12430086 Ca_sĩ_tiếng_Quan_thoại
 12430098 Người_đoạt_giải_Kerrang!
 12430112 Anime_và_manga_dựa_trên_light_novel
+12430269 Ca_sĩ_tiếng_Nhật
 12430528 Nữ_ca_sĩ_thế_kỷ_20
 12430534 Nữ_nhạc_sĩ_thế_kỷ_20
 12430536 Nữ_nghệ_sĩ_thế_kỷ_20
@@ -22341,6 +22349,7 @@
 13467083 Quần_đảo_của_Nhật_Bản
 13467155 Sơ_khai_Lai_Châu
 13467157 Nghệ_sĩ_ưu_tú_Việt_Nam
+13467255 Công_ty_trong_chỉ_số_trung_bình_công_nghiệp_Dow_Jones
 13467462 Bí_thư_Tỉnh_ủy_Việt_Nam_nhiệm_kì_2015–2020
 13467476 Bí_thư_Tỉnh_ủy_Việt_Nam_nhiệm_kì_2010–2015
 13468077 Ba_Lan_trong_Thế_chiến_thứ_hai
@@ -22760,6 +22769,7 @@
 14029563 Huyện_của_Afghanistan
 14031385 Lịch_sử_Ural
 14032341 Chính_phủ_lâm_thời
+14038749 Ngôn_ngữ_First_Nations_ở_Canada
 14041115 Chữ_cái_Latinh_có_dấu_phụ
 14041768 Trả_thù_trong_anime_và_manga
 14042390 Mẫu_tự_nguyên_âm
@@ -23534,6 +23544,7 @@
 19166861 Năm_2023
 19167677 Bản_mẫu_đầu_thể_loại_theo_trình_tự_thời_gian_truyền_hình
 19170276 Bài_chất_lượng_C_về_Vũ_trụ_Điện_ảnh_Marvel
+19181676 Bản_mẫu_động_đất_theo_năm
 19202167 Bộ_thủ_Khang_Hi
 19205959 YouTuber_Thái_Lan
 19207179 Loại_thực_phẩm
@@ -23758,6 +23769,7 @@
 19502382 Tài_khoản_con_rối_của_Autumn_VN
 19503551 Ẩn_dụ_loài_vật
 19504774 Hộp_điều_hướng_ngoại_hành_tinh
+19506037 Dịch_giả_Ba_Lan
 19506640 Tôn_thất_nhà_Nguyễn
 19509028 Bài_viết_tốt_về_Ẩm_thực
 19509031 Bài_chất_lượng_C_về_Ẩm_thực
@@ -23862,6 +23874,7 @@
 19531273 Danh_sách_liên_quan_đến_Nintendo
 19532104 Nhãn_hiệu_Trung_Quốc
 19532123 Trò_chơi_điện_tử_phát_triển_ở_Vương_quốc_Liên_hiệp_Anh
+19532132 Trò_chơi_điện_tử_năm_2019
 19532163 Trò_chơi_nhập_vai_hành_động
 19532173 Trò_chơi_phiêu_lưu_hành_động
 19532182 Marvelous_Entertainment
@@ -24417,7 +24430,6 @@
 19686354 Ít_quan_trọng_về_Thái_Lan
 19686847 Động_vật_Đại_Antilles
 19687112 Mất_năm_2022
-19687711 Bóng_đá_Việt_Nam_năm_2022
 19689822 Chương_trình_gốc_GMM_25
 19690160 Thành_viên_yêu_thích_nhạc_cổ_điển
 19690991 Sơ_khai_tỉnh_Saône-et-Loire
@@ -24539,12 +24551,14 @@
 19729203 Nhà_phát_minh_Mỹ_thế_kỷ_20
 19729267 Tàu_thủy_năm_1945
 19729269 Tàu_thủy_năm_1938
+19729455 Công_tước_xứ_Holstein
 19729459 Sự_cố_hàng_hải_năm_1944
 19729460 Sự_cố_hàng_hải_năm_1969
 19729646 Khởi_đầu_thập_niên_1250_ở_Đế_quốc_La_Mã_Thần_thánh
 19730067 Lớp_tàu_hộ_tống_khu_trục_Rudderow
 19730068 Xác_tàu_đắm_ngoài_khơi_bờ_biển_California
 19730701 Nữ_giới_Việt_Nam_thế_kỷ_21
+19730709 Sự_cố_hàng_hải_năm_1940
 19730720 Lớp_tàu_vận_chuyển_cao_tốc_Crosley
 19731010 Bản_mẫu_sơ_khai_du_hành_không_gian
 19731836 Tàu_được_Hải_quân_Hoa_Kỳ_chuyển_cho_Hải_quân_Cộng_hòa_Hàn_Quốc
@@ -24637,6 +24651,7 @@
 19754197 Tài_khoản_bị_nghi_là_con_rối_của_Trieu_Thuan_Son
 19754400 Phim_truyền_hình_cổ_trang_Trung_Quốc
 19754405 Phim_truyền_hình_Trung_Quốc_ra_mắt_năm_2007
+19754445 Động_đất_năm_2022
 19755067 Món_ăn_quốc_gia
 19755680 GONZO
 19755699 Vương_nữ_Castilla
@@ -24849,6 +24864,7 @@
 19775072 Quận_Butler,_Kansas
 19775134 Quận_Cherokee,_Kansas
 19775142 Quận_Coffey,_Kansas
+19775276 Bóng_đá_Việt_Nam_năm_2023
 19775380 Quận_Greenwood,_Kansas
 19775389 Quận_Harvey,_Kansas
 19775396 Quận_Jefferson,_Kansas
@@ -24871,7 +24887,6 @@
 19776048 Quận_Grand_Traverse,_Michigan
 19776229 Xã_đặc_quyền_của_Michigan
 19776578 Bài_hát_năm_2023
-19776581 Phim_truyền_hình_Thái_Lan_ra_mắt_năm_2023
 19776583 Phim_truyền_hình_Hàn_Quốc_ra_mắt_năm_2023
 19776939 Tài_khoản_con_rối_của_Quanluchn
 19778452 Đĩa_đơn_năm_2023
@@ -25031,10 +25046,10 @@
 19822634 Giáo_phận_Công_giáo_Indonesia
 19822819 Vương_tộc_Glücksburg_(Na_Uy)
 19823186 Giải_vô_địch_bóng_rổ_thế_giới_2023
-19823818 Bài_chất_lượng_C_về_Dự_án_Đường_sắt
-19823819 Bài_sơ_khai_về_Dự_án_Đường_sắt
-19823838 Ít_quan_trọng_về_Dự_án_Đường_sắt
-19823839 Khá_quan_trọng_về_Dự_án_Đường_sắt
+19823818 Bài_chất_lượng_C_về_Đường_sắt
+19823819 Bài_sơ_khai_về_Đường_sắt
+19823838 Ít_quan_trọng_về_Đường_sắt
+19823839 Khá_quan_trọng_về_Đường_sắt
 19823982 Sơ_khai_Seguenzioidea
 19824577 Sơ_khai_Truncatelloidea
 19825459 Sơ_khai_Turbinelloidea
@@ -25052,6 +25067,7 @@
 19838040 Danh_sách_chọn_lọc_2024
 19841447 Sơ_khai_Slovakia
 19841525 Quận_của_Ōsaka_(thành_phố)
+19842037 Việt_Nam_năm_2024
 19843914 Phim_truyền_hình_Hàn_Quốc_ra_mắt_năm_2024
 19844529 Chỉ_huy_quân_sự_Việt_Nam_trong_Chiến_tranh_Đông_Dương
 19844541 Nhà_nước_của_Liên_bang_Rhein
