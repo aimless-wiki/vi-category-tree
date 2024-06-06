@@ -1,1 +1,1 @@
-{"name": "Sách_tiếng_Anh", "id": 543639, "predecessors": [{"name": "Tiếng_Anh", "id": 54049}, {"name": "Tất_cả", "id": 24901}, {"name": "Luật_bản_quyền", "id": 46619}], "successors": [{"name": "Tiểu_thuyết_tiếng_Anh", "id": 267472}]}
+{"name": "Sách_tiếng_Anh", "id": 543639, "predecessors": [{"name": "Sách", "id": 36750}, {"name": "Tiếng_Anh", "id": 54049}, {"name": "Luật_bản_quyền", "id": 46619}], "successors": [{"name": "Tiểu_thuyết_tiếng_Anh", "id": 267472}]}

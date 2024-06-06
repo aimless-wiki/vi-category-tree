@@ -1,1 +1,1 @@
-{"name": "Kinh_điển_Phật_giáo", "id": 11631, "predecessors": [{"name": "Phật_giáo", "id": 4967}, {"name": "Phật_học", "id": 11627}, {"name": "Nhân_văn_học", "id": 91137}], "successors": [{"name": "Thiền_ngữ", "id": 11003}, {"name": "Kinh_văn_Phật_giáo_Đại_thừa", "id": 3418126}]}
+{"name": "Kinh_điển_Phật_giáo", "id": 11631, "predecessors": [{"name": "Phật_giáo", "id": 4967}, {"name": "Phật_học", "id": 11627}, {"name": "Sách", "id": 36750}], "successors": [{"name": "Thiền_ngữ", "id": 11003}, {"name": "Kinh_văn_Phật_giáo_Đại_thừa", "id": 3418126}]}
