@@ -1109,6 +1109,7 @@
 26266 Tết
 26333 Dịch_giả_Việt_Nam
 26344 Họ_Đom_đóm
+26435 Thiên_văn_học_Trung_Quốc
 26512 Anime
 26537 Âm_thanh
 26624 Người_Ý
@@ -4257,7 +4258,6 @@
 305021 Sông_tại_Nghệ_An
 305052 Cựu_Cộng_hòa_Xô_viết
 305109 Vương_tộc_Habsburg
-305203 Tiêu_bản_định_hướng_anime_và_manga
 305273 Tín_ngưỡng_dân_gian_Việt_Nam
 305274 Tín_ngưỡng_dân_gian
 305304 Nữ_tiến_sĩ_Việt_Nam
@@ -6030,7 +6030,6 @@
 575897 Đĩa_đơn_quán_quân_European_Hot_100_Singles
 576621 Bất_bạo_động
 576985 Thành_phố_tỉnh_Nagano
-577107 Khu_của_Yokohama
 577138 Thành_phố_phủ_Kyōto
 577255 Thành_phố_của_Ōsaka
 577285 Huấn_luyện_viên_bóng_đá_Pháp
@@ -6198,7 +6197,6 @@
 590538 Cảm_xúc
 590572 Bắc_Sumatra
 590825 Cosmopterigidae
-590995 Phim_ngắn
 591018 Ủy_viên_Bộ_Chính_trị_Ban_Chấp_hành_Trung_ương_Đảng_Cộng_sản_Việt_Nam_khóa_XI
 591155 Thiên_thể_phát_hiện_năm_2011
 591278 Quân_nhân_Pháp_trong_Chiến_tranh_Đông_Dương
@@ -6381,7 +6379,6 @@
 645240 Chloroclystis
 645242 Eupitheciini
 645303 Sơ_khai_Larentiinae
-645387 Thành_phố_tỉnh_Mie
 645418 Đại_dịch
 645469 Xanthorhoini
 645487 Eupithecia
@@ -8828,7 +8825,6 @@
 1584967 Động_vật_có_vú_Guyana
 1584968 Động_vật_Guyane_thuộc_Pháp
 1585010 Tiêu_bản_đội_tuyển_futsal_quốc_gia
-1585087 Hệ_thống_tập_tin_máy_tính
 1585089 Công_nghệ_hệ_điều_hành
 1585105 Xã_thuộc_tiểu_bang_Nebraska
 1585327 Sơ_khai_Bộ_Rùa
@@ -9592,6 +9588,7 @@
 1646003 Carpodacus
 1646010 Ẩm_thực_New_Zealand
 1646026 Xã_của_Indiana
+1646044 Nữ_thủ_tướng
 1646131 Khá_quan_trọng_về_Âm_nhạc
 1646132 Dự_án_âm_nhạc
 1646134 Danh_sách_chọn_lọc_về_Âm_nhạc
@@ -9719,6 +9716,7 @@
 1677178 Người_Kampong_Cham
 1677324 Thành_phố_cảng_Ấn_Độ
 1677327 Tỉnh_Panamá
+1677347 Trò_chơi_Flash
 1677379 Lưu_vực_sông_Volga
 1677385 Bài_chất_lượng_A_về_Âm_nhạc
 1677387 Bài_chất_lượng_C_về_Âm_nhạc
@@ -10530,7 +10528,6 @@
 1749820 Sơ_khai_Pakistan
 1749936 Tài_khoản_con_rối_của_Fisherprice123
 1749983 Động_vật_đảo_Giáng_Sinh
-1749998 Ngữ_hệ_H'Mông-Miền
 1750003 Ngữ_hệ_Niger-Congo
 1750034 Bản_mẫu_lịch_sử_Trung_Quốc
 1750370 Bản_mẫu_chú_thích_nguồn_gốc
@@ -10657,6 +10654,7 @@
 1765021 Thể_thao_nữ
 1765035 Huấn_luyện_viên_bóng_đá_Đức
 1765036 Huấn_luyện_viên_bóng_đá_Ý
+1765041 Danh_mục_thiên_văn_học
 1765201 Sơ_khai_khoáng_vật
 1765283 Nước_Sở
 1765430 Sơ_khai_Myanmar
@@ -11171,6 +11169,7 @@
 2416189 Ortenau_(huyện)
 2416191 Người_giành_giải_Tony
 2416193 Nghệ_sĩ_của_Walt_Disney_Records
+2416229 Bản_mẫu_văn_học
 2416420 Quan_sát_khoa_học
 2416461 Sơ_khai_công_ty_Việt_Nam
 2416472 Được_phát_hiện_bởi_Toshimasa_Furuta
@@ -11732,6 +11731,7 @@
 2431755 Khởi_nghĩa_cuối_đời_Tùy
 2431832 Plana_Alta
 2431860 Protein_người
+2431934 Hemiphyllodactylus
 2431938 Sơ_khai_dương_xỉ
 2432005 Exalloniscus
 2432012 Porcellio
@@ -15919,7 +15919,6 @@
 3094733 Camptopoeum
 3094768 Calliopsis
 3094958 Anthrenoides
-3095875 Bộ_trưởng_Lào
 3099355 Danh_pháp_đồng_nghĩa_Côn_trùng
 3099371 Nhóm_sắc_tộc_ở_Ấn_Độ
 3099468 Ngôn_ngữ_tại_Đức
@@ -16002,7 +16001,6 @@
 3120988 Hộp_điều_hướng_chương_trình_truyền_hình
 3120991 Lịch_sử_Palestine
 3120994 Cận_Đông_cổ_đại
-3121139 Phó_Thủ_tướng_Đức
 3121143 Công_tử_phi_Sachsen-Coburg_và_Gotha
 3121325 Sơ_khai_Coleophoridae
 3121327 Craugastoridae
@@ -16158,6 +16156,7 @@
 3128802 Sơ_khai_Họ_Ô_rô
 3128865 Phim_Barbie
 3128984 Danh_sách_nhân_vật_trong_anime_và_manga
+3129032 Bucheon
 3129173 Chương_trình_truyền_hình_Hệ_thống_Phát_sóng_Seoul
 3129199 Đài_phát_sóng_công_cộng
 3129205 Đài_truyền_hình_tiếng_Triều_Tiên
@@ -17155,6 +17154,7 @@
 3203309 Sơ_khai_Tipulinae
 3203333 Sơ_khai_Họ_Ruồi_ăn_sâu
 3203381 Tiểu_thuyết_dành_cho_thiếu_niên_Mỹ
+3203473 Hộp_điều_hướng_đạo_diễn_phim_Anh
 3203484 Ga_đường_sắt_ở_Tokyo
 3203527 Trung_thành_tình_dục
 3203532 Phim_liên_quan_đến_LGBT_của_Mỹ
@@ -18013,6 +18013,7 @@
 3261520 Tiến_hóa_loài_người
 3261612 Bài_chất_lượng_B_về_Giám_mục_Công_giáo
 3261615 Bài_chất_lượng_C_về_Giám_mục_Công_giáo
+3261674 Nữ_bộ_trưởng_quốc_phòng
 3261788 Nghệ_sĩ_đồng_tính_nam
 3261938 Nhà_triết_học_khoa_học
 3261958 Câu_lạc_bộ_bóng_đá_Luân_Đôn
@@ -18447,6 +18448,7 @@
 3285317 Cryptophagus
 3285319 Micrambe
 3285321 Lederia
+3285322 Abdera
 3285326 Orchesia
 3285563 Tử_vong_theo_nhân_vật
 3285752 Người_mất_tích
@@ -18748,6 +18750,7 @@
 3309377 Nelistrobyctiscus
 3309378 Hamiltoniauletes
 3309379 Eugnamptobius
+3309410 Chiến_tranh_biên_giới_Việt–Trung_1979
 3309416 Auletomorphus
 3309417 Amerorhynchites
 3309418 Caporhynchites
@@ -19939,6 +19942,7 @@
 3384022 Sơ_khai_Angola
 3385284 Sơ_khai_nhân_vật_quân_sự_Đức
 3385728 Hylini
+3385778 Chính_trị_và_thể_thao
 3385946 Quyền_LGBT
 3385990 Nam_diễn_viên_Anh_thế_kỷ_20
 3385994 Nam_diễn_viên_Anh_thế_kỷ_21
@@ -20529,6 +20533,7 @@
 3419987 Lan_Trung_Quốc
 3420046 Lập_phương_Rubik
 3420110 Ngôn_ngữ_không_còn_ở_Châu_Âu
+3420114 Người_Hà_Lan_ở_nước_ngoài_ở_Pháp
 3420115 Người_Hà_Lan_ở_nước_ngoài_ở_Tây_Ban_Nha
 3420116 Người_Hung
 3420119 Lính_Lục_quân_Hoa_Kỳ
@@ -21184,6 +21189,7 @@
 3637118 Vô_địch_Cúp_FA
 3637149 Bài_chưa_xếp_loại_chất_lượng_về_Ai_Cập_cổ_đại
 3637150 Chưa_xếp_độ_quan_trọng_về_Ai_Cập_cổ_đại
+3637739 Danh_sách_về_văn_hóa
 3638238 Sơ_khai_Ai_Cập_cổ_đại
 3638242 Đĩa_đơn_năm_2017
 3638270 Đĩa_đơn_của_Apple_Records
@@ -22771,6 +22777,7 @@
 13934635 Lĩnh_vực_tính_toán_học
 13943402 Công_ty_có_trụ_sở_tại_Moskva
 13952237 Phim_của_Relativity_Media
+13955490 Bản_mẫu_giải_vô_địch_bóng_đá_châu_Âu_2024
 13955523 Hộp_điều_hướng_sân_vận_động_giải_vô_địch_bóng_đá_châu_Âu
 13963427 Động_vật_Tiểu_Antilles
 13968304 Kỹ_thuật_tiếp_thị
@@ -23572,6 +23579,7 @@
 19162088 Cổng_thông_tin_Y_học
 19166861 Năm_2023
 19167677 Bản_mẫu_đầu_thể_loại_theo_trình_tự_thời_gian_truyền_hình
+19169829 Đại_tá_Quân_lực_Việt_Nam_Cộng_hòa
 19170276 Bài_chất_lượng_C_về_Vũ_trụ_Điện_ảnh_Marvel
 19181676 Bản_mẫu_động_đất_theo_năm
 19202167 Bộ_thủ_Khang_Hi
@@ -23907,8 +23915,7 @@
 19532104 Nhãn_hiệu_Trung_Quốc
 19532123 Trò_chơi_điện_tử_phát_triển_ở_Vương_quốc_Liên_hiệp_Anh
 19532132 Trò_chơi_điện_tử_năm_2019
-19532163 Trò_chơi_nhập_vai_hành_động
-19532173 Trò_chơi_phiêu_lưu_hành_động
+19532163 Trò_chơi_hành_động_nhập_vai
 19532182 Marvelous_Entertainment
 19532395 Đồ_chơi_thập_niên_2010
 19532477 Cá_Maldives
@@ -24216,7 +24223,6 @@
 19589243 Periptyctus
 19589407 Transistor
 19589746 Sơ_khai_Chad
-19590276 Bài_viết_mất_sao_tốt
 19590307 Nghệ_sĩ_Argentina
 19590626 Thiên_thể_Kepler
 19591228 Running_Man_(chương_trình_truyền_hình)
@@ -25189,6 +25195,15 @@
 19869458 Aaptos
 19869471 Sơ_khai_Demospongiae
 19870230 Tàu_ngầm_của_Hải_quân_Đức_trong_Thế_Chiến_II
+19871016 Cầu_thủ_Giải_vô_địch_bóng_đá_châu_Âu_2024
 19871040 Sơ_khai_Hepialidae
 19871507 Tàu_ngầm_của_Hải_quân_Đế_quốc_Nhật_Bản_trong_Thế_Chiến_II
 19872603 Thị_trấn_của_bang_Mecklenburg-Vorpommern
+19872819 Sơ_khai_địa_hình_học
+19872949 Huyện_Opava
+19873140 Thị_trấn_của_Mazowieckie
+19873679 Loài_đặc_hữu_của_Madagascar
+19873746 Hoàng_tử_trong_thần_thoại_Hy_Lạp
+19874436 Bản_mẫu_định_hướng_anime_và_manga
+19874502 Huyện_của_Tỉnh_Moskva
+19874935 Xã_của_hạt_Dâmbovița

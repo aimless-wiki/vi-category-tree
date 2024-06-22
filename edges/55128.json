@@ -1,1 +1,1 @@
-{"name": "Lịch_sử_thiên_văn_học", "id": 55128, "predecessors": [{"name": "Thiên_văn_học", "id": 1559}, {"name": "Lịch_sử_khoa_học", "id": 68463}], "successors": [{"name": "Lịch_sử_chiêm_tinh_học", "id": 1407786}]}
+{"name": "Lịch_sử_thiên_văn_học", "id": 55128, "predecessors": [{"name": "Thiên_văn_học", "id": 1559}, {"name": "Lịch_sử_khoa_học", "id": 68463}], "successors": [{"name": "Thiên_văn_học_Trung_Quốc", "id": 26435}, {"name": "Lịch_sử_chiêm_tinh_học", "id": 1407786}]}

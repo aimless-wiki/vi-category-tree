@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_sơ_khai_văn_học", "id": 3228464, "predecessors": [{"name": "Bản_mẫu_sơ_khai", "id": 1328613}, {"name": "Sơ_khai_văn_học", "id": 149422}, {"name": "Bản_mẫu", "id": 502043}], "successors": [{"name": "Bản_mẫu_sơ_khai_tiểu_thuyết", "id": 19745396}]}
+{"name": "Bản_mẫu_sơ_khai_văn_học", "id": 3228464, "predecessors": [{"name": "Bản_mẫu_sơ_khai", "id": 1328613}, {"name": "Bản_mẫu_văn_học", "id": 2416229}, {"name": "Sơ_khai_văn_học", "id": 149422}], "successors": [{"name": "Bản_mẫu_sơ_khai_tiểu_thuyết", "id": 19745396}]}
