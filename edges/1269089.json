@@ -1,1 +1,1 @@
-{"name": "Nhà_thiết_kế_thời_trang", "id": 1269089, "predecessors": [{"name": "Thiết_kế", "id": 37651}, {"name": "Nghệ_thuật_thị_giác", "id": 27766}, {"name": "Thời_trang", "id": 37649}], "successors": [{"name": "Nhà_thiết_kế_thời_trang_LGBT", "id": 3247919}]}
+{"name": "Nhà_thiết_kế_thời_trang", "id": 1269089, "predecessors": [{"name": "Thiết_kế", "id": 37651}, {"name": "Thời_trang", "id": 37649}, {"name": "Nghệ_thuật", "id": 6515}], "successors": [{"name": "Nhà_thiết_kế_thời_trang_LGBT", "id": 3247919}]}

@@ -1,1 +1,1 @@
-{"name": "Danh_sách_chính_đảng", "id": 525145, "predecessors": [{"name": "Danh_sách_tổ_chức", "id": 3116696}, {"name": "Bầu_cử", "id": 32965}, {"name": "Chính_trị", "id": 6853}], "successors": []}
+{"name": "Danh_sách_chính_đảng", "id": 525145, "predecessors": [{"name": "Bầu_cử", "id": 32965}, {"name": "Danh_sách", "id": 8857}, {"name": "Chính_trị", "id": 6853}], "successors": []}

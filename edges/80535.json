@@ -1,1 +1,1 @@
-{"name": "Mỹ_thuật_Việt_Nam", "id": 80535, "predecessors": [{"name": "Nghệ_thuật_thị_giác", "id": 27766}], "successors": [{"name": "Nghệ_sĩ_Việt_Nam", "id": 90626}, {"name": "Nhiếp_ảnh_Việt_Nam", "id": 99218}, {"name": "Truyện_tranh_Việt_Nam", "id": 377346}, {"name": "Họa_sĩ_Việt_Nam", "id": 28820}]}
+{"name": "Mỹ_thuật_Việt_Nam", "id": 80535, "predecessors": [{"name": "Mỹ_học", "id": 62166}, {"name": "Văn_hóa", "id": 4113}], "successors": [{"name": "Nghệ_sĩ_Việt_Nam", "id": 90626}, {"name": "Nhiếp_ảnh_Việt_Nam", "id": 99218}, {"name": "Họa_sĩ_Việt_Nam", "id": 28820}]}

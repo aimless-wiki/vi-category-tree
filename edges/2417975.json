@@ -1,1 +1,1 @@
-{"name": "Phim_độc_lập", "id": 2417975, "predecessors": [{"name": "Công_ty_giải_trí", "id": 416460}, {"name": "Phim", "id": 5997}], "successors": [{"name": "Phim_hãng_Fox_Searchlight_Pictures", "id": 3121572}, {"name": "Phim_độc_lập_Việt_Nam", "id": 19430751}]}
+{"name": "Phim_độc_lập", "id": 2417975, "predecessors": [{"name": "Phim", "id": 5997}, {"name": "Giải_trí", "id": 6073}], "successors": [{"name": "Phim_hãng_Fox_Searchlight_Pictures", "id": 3121572}, {"name": "Phim_độc_lập_Việt_Nam", "id": 19430751}]}

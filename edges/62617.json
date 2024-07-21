@@ -1,1 +1,1 @@
-{"name": "Biển_Baltic", "id": 62617, "predecessors": [{"name": "Biển_châu_Âu", "id": 1617439}, {"name": "Vùng_của_châu_Âu", "id": 1520368}, {"name": "Biển_châu_Á", "id": 7569421}, {"name": "Nước", "id": 64811}, {"name": "Môi_trường", "id": 32789}], "successors": []}
+{"name": "Biển_Baltic", "id": 62617, "predecessors": [{"name": "Vùng_của_châu_Âu", "id": 1520368}, {"name": "Hải_dương_học", "id": 79883}, {"name": "Vùng_nước", "id": 193323}, {"name": "Nước", "id": 64811}, {"name": "Môi_trường", "id": 32789}], "successors": []}

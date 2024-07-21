@@ -1,1 +1,1 @@
-{"name": "Kênh_truyền_hình_Mỹ", "id": 345105, "predecessors": [{"name": "Truyền_hình", "id": 15079}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": [{"name": "Disney_Channel", "id": 1401947}]}
+{"name": "Kênh_truyền_hình_Mỹ", "id": 345105, "predecessors": [{"name": "Truyền_hình", "id": 15079}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": [{"name": "Phim_nguyên_bản_ở_Kênh_Disney", "id": 192467}, {"name": "Chương_trình_trên_Disney_Channel", "id": 1401950}]}

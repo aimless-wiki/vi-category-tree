@@ -1,1 +1,1 @@
-{"name": "Nhân_vật_hoạt_hình", "id": 238554, "predecessors": [{"name": "Nhân_vật_giả_tưởng", "id": 103991}, {"name": "Loại_hình_sân_khấu", "id": 407746}], "successors": [{"name": "Cặp_đôi_hoạt_hình", "id": 3367891}]}
+{"name": "Nhân_vật_hoạt_hình", "id": 238554, "predecessors": [{"name": "Nhân_vật_giả_tưởng", "id": 103991}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Cặp_đôi_hoạt_hình", "id": 3367891}]}

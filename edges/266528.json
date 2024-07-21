@@ -1,1 +1,1 @@
-{"name": "Sách_chính_trị", "id": 266528, "predecessors": [{"name": "Loại_hình", "id": 65952}, {"name": "Sách_phi_hư_cấu", "id": 3208637}, {"name": "Chính_trị", "id": 6853}, {"name": "Tất_cả", "id": 24901}], "successors": []}
+{"name": "Sách_chính_trị", "id": 266528, "predecessors": [{"name": "Sách", "id": 36750}, {"name": "Chính_trị", "id": 6853}, {"name": "Tất_cả", "id": 24901}], "successors": []}

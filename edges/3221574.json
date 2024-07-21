@@ -1,1 +1,1 @@
-{"name": "Kiểm_thử_phần_mềm", "id": 3221574, "predecessors": [{"name": "Công_nghệ_phần_mềm", "id": 47752}, {"name": "Thống_kê", "id": 24601}, {"name": "Đánh_giá", "id": 1685435}, {"name": "Hoạt_động_xã_hội", "id": 827918}, {"name": "Chất_lượng", "id": 1591259}], "successors": []}
+{"name": "Kiểm_thử_phần_mềm", "id": 3221574, "predecessors": [{"name": "Công_nghệ_phần_mềm", "id": 47752}, {"name": "Thống_kê", "id": 24601}, {"name": "Chất_lượng", "id": 1591259}, {"name": "Hoạt_động_xã_hội", "id": 827918}], "successors": []}

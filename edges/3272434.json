@@ -1,1 +1,1 @@
-{"name": "Hàm_số_và_ánh_xạ", "id": 3272434, "predecessors": [{"name": "Giải_tích_toán_học", "id": 10498}, {"name": "Khái_niệm_toán_học", "id": 1765722}], "successors": [{"name": "Giải_tích_hàm", "id": 102889}, {"name": "Đa_thức", "id": 2439978}, {"name": "Loại_hàm_số", "id": 3272433}]}
+{"name": "Hàm_số_và_ánh_xạ", "id": 3272434, "predecessors": [{"name": "Giải_tích_toán_học", "id": 10498}, {"name": "Logic", "id": 88708}], "successors": [{"name": "Giải_tích_hàm", "id": 102889}, {"name": "Đa_thức", "id": 2439978}, {"name": "Loại_hàm_số", "id": 3272433}]}

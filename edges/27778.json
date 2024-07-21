@@ -1,1 +1,1 @@
-{"name": "Kiến_trúc_sư_Ý", "id": 27778, "predecessors": [{"name": "Người_Ý", "id": 26624}, {"name": "Nghệ_thuật_thị_giác", "id": 27766}, {"name": "Con_người", "id": 18532}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": []}
+{"name": "Kiến_trúc_sư_Ý", "id": 27778, "predecessors": [{"name": "Người_Ý", "id": 26624}, {"name": "Con_người", "id": 18532}, {"name": "Nghệ_thuật", "id": 6515}, {"name": "Văn_hóa_phương_Tây", "id": 27888}], "successors": []}

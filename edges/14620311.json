@@ -1,1 +1,1 @@
-{"name": "Tàu_điện_ngầm_Đài_Bắc", "id": 14620311, "predecessors": [{"name": "Tàu_điện_ngầm", "id": 153053}, {"name": "Thành_phố_của_Đài_Loan", "id": 61452}, {"name": "Tân_Bắc", "id": 816647}], "successors": []}
+{"name": "Tàu_điện_ngầm_Đài_Bắc", "id": 14620311, "predecessors": [{"name": "Tàu_điện_ngầm", "id": 153053}, {"name": "Tân_Bắc", "id": 816647}, {"name": "Đài_Loan", "id": 28224}], "successors": []}

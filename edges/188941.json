@@ -1,1 +1,1 @@
-{"name": "Công_ty_máy_tính_Mỹ", "id": 188941, "predecessors": [{"name": "Công_ty_phần_cứng_máy_tính", "id": 947396}, {"name": "Công_ty_điện_tử_Mỹ", "id": 1617467}, {"name": "Khoa_học_và_công_nghệ_Mỹ", "id": 48871}, {"name": "Kinh_tế", "id": 5765}], "successors": []}
+{"name": "Công_ty_máy_tính_Mỹ", "id": 188941, "predecessors": [{"name": "Công_ty_phần_cứng_máy_tính", "id": 947396}, {"name": "Công_ty_điện_tử_Mỹ", "id": 1617467}, {"name": "Kinh_tế", "id": 5765}, {"name": "Công_nghệ", "id": 2208}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nhà_sinh_học", "id": 26917, "predecessors": [{"name": "Lịch_sử_sinh_học", "id": 1706905}, {"name": "Sinh_học", "id": 2012}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "Nhà_dương_xỉ_học", "id": 486509}]}
+{"name": "Nhà_sinh_học", "id": 26917, "predecessors": [{"name": "Sinh_học", "id": 2012}, {"name": "Con_người", "id": 18532}, {"name": "Lịch_sử_khoa_học", "id": 68463}], "successors": [{"name": "Nhà_dương_xỉ_học", "id": 486509}]}

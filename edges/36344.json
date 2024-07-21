@@ -1,1 +1,1 @@
-{"name": "Sóng_thần", "id": 36344, "predecessors": [{"name": "Sóng_nước", "id": 66616}, {"name": "Thiên_tai", "id": 8428}, {"name": "Địa_chấn_học", "id": 32625}, {"name": "Tai_biến_tự_nhiên", "id": 1678545}], "successors": [{"name": "Sóng_thần_tại_Nhật_Bản", "id": 706660}]}
+{"name": "Sóng_thần", "id": 36344, "predecessors": [{"name": "Thiên_tai", "id": 8428}, {"name": "Địa_chấn_học", "id": 32625}, {"name": "Chuyển_động_sóng", "id": 4471}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Sóng_thần_tại_Nhật_Bản", "id": 706660}]}

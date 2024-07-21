@@ -1,1 +1,1 @@
-{"name": "Người_khuyết_tật", "id": 262246, "predecessors": [{"name": "Khuyết_tật", "id": 22205}, {"name": "Nhóm_xã_hội", "id": 45219}, {"name": "Bệnh", "id": 16308}], "successors": [{"name": "Người_bị_rối_loạn_lưỡng_cực", "id": 3210466}, {"name": "Người_mắc_bệnh_động_kinh", "id": 3381362}]}
+{"name": "Người_khuyết_tật", "id": 262246, "predecessors": [{"name": "Nhóm_xã_hội", "id": 45219}, {"name": "Sức_khỏe", "id": 15516}, {"name": "Bệnh", "id": 16308}], "successors": [{"name": "Người_bị_rối_loạn_lưỡng_cực", "id": 3210466}, {"name": "Người_mắc_bệnh_động_kinh", "id": 3381362}]}

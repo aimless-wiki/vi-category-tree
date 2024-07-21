@@ -1,1 +1,1 @@
-{"name": "Giấy_tờ_tùy_thân", "id": 1211434, "predecessors": [{"name": "An_ninh", "id": 38880}, {"name": "Chính_phủ", "id": 48944}, {"name": "Nhận_dạng_cá_nhân", "id": 33360}, {"name": "Sự_riêng_tư", "id": 66538}, {"name": "Du_lịch", "id": 4633}], "successors": [{"name": "Nhận_dạng_cá_nhân", "id": 33360}]}
+{"name": "Giấy_tờ_tùy_thân", "id": 1211434, "predecessors": [{"name": "An_ninh", "id": 38880}, {"name": "Chính_phủ", "id": 48944}, {"name": "Du_lịch", "id": 4633}, {"name": "Quản_trị_dữ_liệu", "id": 14974}], "successors": []}

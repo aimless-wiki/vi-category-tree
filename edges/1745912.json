@@ -1,1 +1,1 @@
-{"name": "Thiên_kiến_nhận_thức", "id": 1745912, "predecessors": [{"name": "Lý_thuyết_quyết_định", "id": 52705}, {"name": "Nhận_thức", "id": 53585}, {"name": "Tâm_lý_học", "id": 7791}, {"name": "Biểu_hiện_tâm_lý", "id": 3175992}, {"name": "Logic", "id": 88708}], "successors": []}
+{"name": "Thiên_kiến_nhận_thức", "id": 1745912, "predecessors": [{"name": "Nhận_thức", "id": 53585}, {"name": "Khoa_học_hình_thức", "id": 1699312}, {"name": "Tâm_lý_học", "id": 7791}, {"name": "Khái_niệm_nhận_thức_luận", "id": 3271081}, {"name": "Logic", "id": 88708}], "successors": []}

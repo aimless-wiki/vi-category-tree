@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_nhà_toán_học", "id": 3208390, "predecessors": [{"name": "Nhà_toán_học", "id": 5552}, {"name": "Sơ_khai_nhà_khoa_học", "id": 2412638}, {"name": "Sơ_khai_toán_học", "id": 2397509}, {"name": "Công_cụ_Wikipedia", "id": 26063}], "successors": []}
+{"name": "Sơ_khai_nhà_toán_học", "id": 3208390, "predecessors": [{"name": "Sơ_khai_nhà_khoa_học", "id": 2412638}, {"name": "Sơ_khai_toán_học", "id": 2397509}, {"name": "Con_người", "id": 18532}, {"name": "Công_cụ_Wikipedia", "id": 26063}], "successors": []}

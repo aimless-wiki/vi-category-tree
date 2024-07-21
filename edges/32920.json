@@ -1,1 +1,1 @@
-{"name": "Số_học", "id": 32920, "predecessors": [{"name": "Số", "id": 44526}], "successors": [{"name": "Số_học_máy_tính", "id": 44494}, {"name": "Số", "id": 44526}, {"name": "Hệ_đếm", "id": 44607}, {"name": "Số_học_sơ_cấp", "id": 259836}, {"name": "Phân_số", "id": 3116353}]}
+{"name": "Số_học", "id": 32920, "predecessors": [{"name": "Số", "id": 44526}], "successors": [{"name": "Số_học_máy_tính", "id": 44494}, {"name": "Số", "id": 44526}, {"name": "Hệ_đếm", "id": 44607}, {"name": "Số_học_sơ_cấp", "id": 259836}]}

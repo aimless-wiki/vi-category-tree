@@ -1,1 +1,1 @@
-{"name": "Giám_sát", "id": 1645014, "predecessors": [{"name": "Thông_tin", "id": 45113}, {"name": "Công_nghệ_thông_tin", "id": 9175}, {"name": "Logic", "id": 88708}], "successors": []}
+{"name": "Giám_sát", "id": 1645014, "predecessors": [{"name": "Công_nghệ_thông_tin", "id": 9175}, {"name": "Logic", "id": 88708}], "successors": []}

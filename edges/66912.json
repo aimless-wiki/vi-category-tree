@@ -1,1 +1,1 @@
-{"name": "Thực_phẩm_lên_men", "id": 66912, "predecessors": [{"name": "Bảo_quản_thực_phẩm", "id": 66914}, {"name": "Thực_phẩm", "id": 33900}, {"name": "Công_nghệ_sinh_học", "id": 4841}], "successors": [{"name": "Bánh_mì", "id": 194569}, {"name": "Mắm", "id": 39924}]}
+{"name": "Thực_phẩm_lên_men", "id": 66912, "predecessors": [{"name": "Bảo_quản_thực_phẩm", "id": 66914}, {"name": "Thực_phẩm", "id": 33900}, {"name": "Công_nghệ_sinh_học", "id": 4841}], "successors": [{"name": "Bánh_mì", "id": 194569}]}

@@ -1,1 +1,1 @@
-{"name": "Định_dạng_tập_tin", "id": 43594, "predecessors": [{"name": "Cấu_trúc_dữ_liệu", "id": 67246}, {"name": "Công_nghệ", "id": 2208}], "successors": [{"name": "Định_dạng_tập_tin_hình_ảnh", "id": 17617}]}
+{"name": "Định_dạng_tập_tin", "id": 43594, "predecessors": [{"name": "Dữ_liệu_máy_tính", "id": 44495}, {"name": "Công_nghệ", "id": 2208}], "successors": [{"name": "Định_dạng_tập_tin_hình_ảnh", "id": 17617}]}

@@ -1,1 +1,1 @@
-{"name": "Năng_lượng_Mặt_Trời", "id": 43348, "predecessors": [{"name": "Mặt_Trời", "id": 9034}, {"name": "Năng_lượng_tái_tạo", "id": 13200}, {"name": "Ứng_dụng_thủy_tinh", "id": 1646591}, {"name": "Năng_lượng", "id": 10495}], "successors": []}
+{"name": "Năng_lượng_Mặt_Trời", "id": 43348, "predecessors": [{"name": "Mặt_Trời", "id": 9034}, {"name": "Năng_lượng_tái_tạo", "id": 13200}, {"name": "Vật_liệu", "id": 8288}, {"name": "Năng_lượng", "id": 10495}], "successors": []}

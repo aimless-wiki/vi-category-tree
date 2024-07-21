@@ -1,1 +1,1 @@
-{"name": "Chương_trình_trên_Disney_Channel", "id": 1401950, "predecessors": [{"name": "Disney_Channel", "id": 1401947}, {"name": "Thể_loại_truyền_hình", "id": 403306}], "successors": [{"name": "Phim_nguyên_bản_ở_Kênh_Disney", "id": 192467}, {"name": "Jetix", "id": 1639987}]}
+{"name": "Chương_trình_trên_Disney_Channel", "id": 1401950, "predecessors": [{"name": "Kênh_truyền_hình_Mỹ", "id": 345105}, {"name": "Thể_loại_truyền_hình", "id": 403306}], "successors": [{"name": "Phim_nguyên_bản_ở_Kênh_Disney", "id": 192467}, {"name": "Jetix", "id": 1639987}]}

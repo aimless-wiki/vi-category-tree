@@ -1,1 +1,1 @@
-{"name": "Baryon", "id": 51539, "predecessors": [{"name": "Hadron", "id": 51538}, {"name": "Hạt_sơ_cấp", "id": 3862}], "successors": [{"name": "Neutron", "id": 51534}]}
+{"name": "Baryon", "id": 51539, "predecessors": [{"name": "Vật_lý_hạt", "id": 3863}, {"name": "Hạt_sơ_cấp", "id": 3862}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Vú", "id": 2415587, "predecessors": [{"name": "Cơ_quan", "id": 2415588}, {"name": "Cơ_quan_sinh_sản_nữ", "id": 88177}, {"name": "Phụ_khoa", "id": 13732}], "successors": []}
+{"name": "Vú", "id": 2415587, "predecessors": [{"name": "Cơ_quan", "id": 2415588}, {"name": "Phụ_khoa", "id": 13732}, {"name": "Hệ_sinh_dục", "id": 147799}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Đơn_vị_thông_tin", "id": 27041, "predecessors": [{"name": "Cấu_trúc_dữ_liệu", "id": 67246}, {"name": "Dữ_liệu_máy_tính", "id": 44495}, {"name": "Thông_tin", "id": 45113}, {"name": "Đơn_vị_đo", "id": 3272}, {"name": "Khoa_học_hình_thức", "id": 1699312}], "successors": []}
+{"name": "Đơn_vị_thông_tin", "id": 27041, "predecessors": [{"name": "Dữ_liệu_máy_tính", "id": 44495}, {"name": "Đơn_vị_đo", "id": 3272}, {"name": "Khoa_học_hình_thức", "id": 1699312}, {"name": "Logic", "id": 88708}], "successors": []}

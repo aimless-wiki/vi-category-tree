@@ -1,1 +1,1 @@
-{"name": "Lửa", "id": 1684630, "predecessors": [{"name": "Nguy_hiểm", "id": 1678546}, {"name": "Truyền_nhiệt", "id": 2415600}, {"name": "Công_nghệ_bền_vững", "id": 78198}], "successors": []}
+{"name": "Lửa", "id": 1684630, "predecessors": [{"name": "Truyền_nhiệt", "id": 2415600}, {"name": "An_ninh_quốc_gia", "id": 38879}, {"name": "Công_nghệ_bền_vững", "id": 78198}], "successors": []}
