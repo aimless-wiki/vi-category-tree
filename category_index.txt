@@ -642,7 +642,6 @@
 19508 Sinh_năm_1802
 19509 Sinh_năm_1803
 19510 Sinh_năm_1804
-19512 Sinh_năm_1700
 19513 Mất_năm_1700
 19520 Mất_năm_1703
 19537 Sinh_năm_1712
@@ -1293,6 +1292,7 @@
 33306 Vua_Pháp
 33351 Phim_Việt_Nam
 33359 Địa_lý_Nga
+33360 Nhận_dạng_cá_nhân
 33362 Hồ_tại_Hà_Nội
 33383 Môi_trường_phát_triển_tích_hợp
 33392 Người_Ba_Na
@@ -1356,6 +1356,7 @@
 36796 Đĩa_đơn_năm_1984
 36816 Sông_của_Ấn_Độ
 36817 Địa_lý_Ấn_Độ
+36852 Răng
 37006 Người_Tiền_Giang
 37010 Người_Nam_Định
 37012 Người_Phú_Thọ
@@ -1671,6 +1672,7 @@
 44841 Bài_hát_năm_1977
 44842 Đĩa_đơn_năm_1977
 44860 Chủ_nghĩa_duy_vật
+44873 Xứ_Nghệ
 44912 Thí_nghiệm_tưởng_tượng
 44953 Ethernet
 44976 Phim_Mỹ
@@ -1731,6 +1733,7 @@
 47002 Hành_vi_tính_dục
 47018 Nhà_thơ_Nga
 47114 Tháng_tư
+47120 Chủ_tịch_Quốc_hội_Việt_Nam
 47121 Quốc_hội_Việt_Nam
 47168 Người_Ukraina
 47290 Dân_số
@@ -2966,7 +2969,6 @@
 131869 Người_Mỹ_gốc_Hungary
 131871 Danh_sách_của_Viện_phim_Mỹ
 132020 Nhóm_sắc_tộc_ở_Campuchia
-132040 Hình_có_vấn_đề
 132358 Cơm
 132363 Thức_ăn_từ_gạo
 132432 Quận_của_California
@@ -2978,6 +2980,7 @@
 133011 Ba_Vì
 133150 Thần_thoại_La_Mã
 133561 Bài_hát_của_Michael_Jackson
+134103 Đảng_Dân_chủ_Việt_Nam
 134664 Trà
 134818 Bệnh_di_truyền
 134827 Quận_Cam,_California
@@ -4096,6 +4099,7 @@
 317053 Huyện_Nghệ_An
 317079 Huyện_Gia_Lai
 317089 Huyện_Quảng_Nam
+317131 Huyện_Long_An
 317166 Hành_chính_An_Giang
 317177 Du_lịch_Bình_Định
 317179 Du_lịch_Hải_Phòng
@@ -4172,7 +4176,6 @@
 323103 Chungcheong_Bắc
 323111 Chungcheong_Nam
 323173 Huyện_của_Bắc_Triều_Tiên
-323192 Gangwon
 323212 Bộ_trưởng_Ngân_khố_Hoa_Kỳ
 323229 Gyeongsang_Bắc
 323304 Lịch_sử_Philippines
@@ -4847,7 +4850,6 @@
 454926 Thiên_hoàng
 454971 Ẩm_thực_Nga
 455265 Nhà_lý_thuyết_số
-455362 Tỉnh_tự_trị_đặc_biệt_Jeonbuk
 455400 Bayreuth_(huyện)
 455738 Chagang
 455780 Landsberg_(huyện)
@@ -5445,6 +5447,7 @@
 530177 Mất_thập_niên_320_TCN
 530207 Mất_thập_niên_220_TCN
 530209 Mất_thập_niên_230_TCN
+530483 Đại_Việt_Quốc_dân_Đảng
 530622 Bài_chưa_xếp_loại_chất_lượng_về_Cầu_đường
 530623 Chưa_xếp_độ_quan_trọng_về_Cầu_đường
 530652 Cựu_đảng_phái_chính_trị_Việt_Nam
@@ -6576,6 +6579,7 @@
 798917 Lâu_đài_Cộng_hòa_Séc
 798946 Chi_Nhái_túi
 798969 Sơ_khai_Họ_Nhái_sừng
+799143 Tiên_tri
 799148 Hemitheini
 799385 Website_Mỹ
 799483 Thống_chế_Phổ
@@ -6690,6 +6694,7 @@
 811622 Vua_Bách_Tế
 811640 Chống_đạo_Tin_Lành
 811808 Khu_dân_cư_ở_Libya
+812453 Chủ_tịch_nước_Việt_Nam
 812464 Hohhot
 812542 Đơn_vị_cấp_huyện_Tây_Tạng
 812660 Người_San_Francisco
@@ -6877,6 +6882,7 @@
 843794 Thiên_thể_phát_hiện_năm_1994
 843795 Thiên_thể_phát_hiện_năm_1995
 843796 Thiên_thể_phát_hiện_năm_1997
+844416 Polynésie_thuộc_Pháp
 845431 Cầu_tại_Thành_phố_Hồ_Chí_Minh
 845436 Cầu_tại_Hà_Nội
 845448 Cầu_qua_sông_Hồng
@@ -7932,6 +7938,7 @@
 1407127 Động_vật_Azerbaijan
 1407165 Chim_Aruba
 1407166 Dạng_ca_khúc
+1407195 Chim_Cuba
 1407196 Chim_Caribe
 1407436 Khái_niệm_xã_hội
 1407439 Khái_niệm_triết_học
@@ -9041,6 +9048,7 @@
 1645011 Tên
 1645014 Giám_sát
 1645053 Tranh_chấp_chủ_quyền_Biển_Đông
+1645161 Tình_báo_Việt_Nam_Cộng_hòa
 1645183 Thị_trấn_của_Lubuskie
 1645201 Sơ_khai_địa_lý_Cộng_hòa_Nhân_dân_Trung_Hoa
 1645202 Sơ_khai_tiểu_hành_tinh_kiểu_S
@@ -10657,6 +10665,7 @@
 2420007 Top_Model
 2420021 Đường_lên_đỉnh_Olympia
 2420037 Được_phát_hiện_bởi_Carlos_Ulrrico_Cesco
+2420052 Bản_mẫu_màu_sắc
 2420074 Bão_tại_Nhật_Bản
 2420103 Bão_tại_Philippines
 2420235 Nhà_vô_địch_cờ_vua_thế_giới
@@ -11056,6 +11065,7 @@
 2430813 Paraphotistus
 2430867 Tiệc
 2430871 Nam_diễn_viên_Mỹ_thế_kỷ_20
+2430936 Đảng_Nhân_dân_Cách_mạng_Lào
 2430966 Khoa_học_thủy_sản
 2430968 Sơ_khai_Zodariidae
 2430988 Thung_lũng_tách_giãn_Lớn
@@ -11459,6 +11469,7 @@
 2446395 Quan_hệ_Nga-Ukraina
 2446412 Lịch_sử_chính_trị_Ukraina
 2446469 Sturnira
+2446563 Doanh_nhân_Ukraina
 2446689 Angerona
 2446690 Abraxas
 2446698 Euchlaena
@@ -15137,6 +15148,7 @@
 3116370 Sơ_khai_Philodromidae
 3116438 Quận_Seongdong
 3116582 Mobile_Linux
+3116638 Sơ_khai_nhân_loại_học
 3116801 Sơ_khai_thực_vật_có_hoa
 3116803 Sơ_khai_Bộ_Không_chân
 3116836 Động_vật_nguy_hiểm
@@ -15807,7 +15819,6 @@
 3180323 Ủy_ban_Trung_ương_Đảng_Cộng_sản_Trung_Quốc
 3180325 Ủy_viên_Ban_Bí_thư_Trung_ương_Đảng_Cộng_sản_Trung_Quốc
 3180381 Trò_chơi_trên_bàn
-3180391 Cancer
 3180508 Plesiosauria
 3180612 Troodontidae
 3180989 Thành_phố_Ấn_Độ_cổ_đại
@@ -15912,6 +15923,7 @@
 3185215 Idia
 3185227 Xylenini
 3185278 Lừa_dối
+3185281 Tác_động_(xã_hội_và_chính_trị)
 3185356 Tropidophis
 3185387 Sơ_khai_Colubrinae
 3185466 Sơ_khai_Họ_Thằn_lằn_bóng
@@ -16104,6 +16116,7 @@
 3193024 Đĩa_đơn_quán_quân_Billboard_Adult_Contemporary
 3193038 Bản_mẫu_tai_nạn_và_sự_cố_hàng_không
 3193084 Sơ_khai_địa_lý_bang_Fribourg
+3193118 Ga_MRT_(Bangkok)
 3193123 Phi_tần_nhà_Minh
 3193126 Nữ_diễn_viên_Trung_Quốc
 3193132 Đảng_phái_trong_hệ_thống_đơn_đảng
@@ -21102,6 +21115,7 @@
 12475283 Danh_sách_phân_cấp_hành_chính
 12483763 Bản_mẫu_hộp
 12484539 Sao_dãy_chính_nhóm_A
+12485865 Tranh_cãi_Hồi_giáo
 12485935 Tổ_chức_chống_cộng
 12486438 Hình_Creative_Commons_Attribution_4.0
 12493013 Chính_phủ_lưu_vong
@@ -21568,10 +21582,7 @@
 13983435 Giải_phẫu_tế_bào
 13989627 Bản_mẫu_thanh_bên_chính_trị_theo_quốc_gia
 13992190 Quốc_gia_và_vùng_lãnh_thổ_nói_tiếng_Ukraina
-13995780 Biểu_trưng_sân_vận_động_National_Football_League
-13995832 Biểu_trưng_sân_vận_động
 14020317 Nhóm_sắc_tộc_được_Trung_Quốc_chính_thức_công_nhận
-14023096 Sân_vận_động_đa_năng
 14023119 Sân_bay_Bắc_Cực
 14026587 Dân_tộc_Turk_châu_Á
 14029563 Huyện_của_Afghanistan
@@ -22268,7 +22279,6 @@
 18557496 Bài_sơ_khai_về_Y_học
 18557540 Bài_chất_lượng_C_về_Y_học
 18557575 Bài_chưa_xếp_loại_chất_lượng_về_Y_học
-18581622 Sân_vận_động_Olympic
 18581859 Địa_điểm_điền_kinh_Olympic
 18614013 Võ_tướng_nhà_Nguyên
 18655243 Rất_quan_trọng_về_Y_học
@@ -22664,7 +22674,6 @@
 19554376 Matidia
 19554396 Sơ_khai_Clubionidae
 19554445 Deinopis
-19554470 Sân_vận_động_Cúp_Vàng_CONCACAF
 19554495 Địa_điểm_thể_thao_hoàn_thành_năm_2009
 19554497 Địa_điểm_thể_thao_hoàn_thành_năm_1998
 19554500 Địa_điểm_thể_thao_hoàn_thành_năm_2014
@@ -23241,6 +23250,7 @@
 19728355 Giải_quần_vợt_Pháp_Mở_rộng_2022
 19728614 Lớp_tàu_khu_trục_Forrest_Sherman
 19728640 Sơ_khai_Litva
+19729198 Sách_về_sự_sống_ngoài_Trái_Đất
 19729203 Nhà_phát_minh_Mỹ_thế_kỷ_20
 19729267 Tàu_thủy_năm_1945
 19729269 Tàu_thủy_năm_1938
@@ -23787,6 +23797,7 @@
 19865362 Vương_nữ_(thuộc_dòng_nữ)
 19865363 Vương_tử_(thuộc_dòng_nữ)
 19865938 Nhân_vật_trong_Cách_mạng_Cuba
+19866883 Sơ_khai_chính_khách_Cuba
 19867195 Cù_lao_và_cồn_trên_sông_Tiền
 19867473 Người_liên_quan_đến_chiến_dịch_đốt_lò
 19867694 Ga_đường_sắt_ở_Sapporo
@@ -23824,6 +23835,17 @@
 19877587 Huyện_của_Tỉnh_Sverdlovsk
 19877588 Huyện_của_Vùng_Krasnoyarsk
 19877589 Xã_của_hạt_Vaslui
-19878070 Ga_tàu_điện_ngầm_ở_Goyang
 19878094 Huyện_Česká_Lípa
+19878588 Xác_tàu_đắm_trong_Thế_Chiến_II_tại_biển_Philippine
 19880302 Sơ_khai_Chihuahua
+19881781 Nhà_ga_ở_Thái_Lan_mở_cửa_năm_2023
+19882173 Tên_gọi_tàu_chiến_Hải_quân_Đức
+19882178 Đô_thị_Thành_phố_trung_tâm_Messina
+19882179 Tàu_hộ_tống_khu_trục_của_Hải_quân_Hoa_Kỳ
+19882181 Temnochila
+19882182 Động_vật_vùng_Tân_nhiệt_đới
+19882188 Chim_Nam_châu_Phi
+19882189 Chim_Đại_Antilles
+19882192 Nghệ_sĩ_Nam_Phi
+19882193 Bắc_Florida
+19882195 Bướm_đêm_đặc_hữu_Hawaii
