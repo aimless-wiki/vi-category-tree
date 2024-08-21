@@ -1,1 +1,1 @@
-{"name": "Phim_dựa_theo_truyện_tranh_Mỹ", "id": 2510556, "predecessors": [{"name": "Phim_dựa_theo_sách", "id": 2510826}, {"name": "Hư_cấu", "id": 397665}], "successors": [{"name": "Phim_của_Vũ_trụ_Mở_rộng_DC", "id": 19592735}]}
+{"name": "Phim_dựa_theo_truyện_tranh_Mỹ", "id": 2510556, "predecessors": [{"name": "Phim_dựa_theo_truyện_tranh", "id": 2510715}, {"name": "Hư_cấu", "id": 397665}], "successors": [{"name": "Phim_của_Vũ_trụ_Mở_rộng_DC", "id": 19592735}]}
