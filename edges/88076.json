@@ -1,1 +1,1 @@
-{"name": "Hình_dạng_máy_bay", "id": 88076, "predecessors": [{"name": "Kỹ_thuật_hàng_không_vũ_trụ", "id": 1436237}, {"name": "Hàng_không", "id": 29202}], "successors": [{"name": "Tàu_lượn", "id": 3639387}, {"name": "Máy_bay_cánh_giữa", "id": 3666933}]}
+{"name": "Hình_dạng_máy_bay", "id": 88076, "predecessors": [{"name": "Kỹ_thuật_hàng_không_vũ_trụ", "id": 1436237}, {"name": "Hàng_không", "id": 29202}], "successors": [{"name": "Tàu_lượn", "id": 3639387}, {"name": "Máy_bay_cánh_giữa", "id": 3666933}, {"name": "Đĩa_bay", "id": 19781052}]}

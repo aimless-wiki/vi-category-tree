@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_Dermestidae", "id": 3167909, "predecessors": [{"name": "Sơ_khai_Bộ_Cánh_cứng", "id": 662891}, {"name": "Bộ_côn_trùng", "id": 863330}], "successors": [{"name": "Sơ_khai_Megatominae", "id": 3663187}]}
+{"name": "Sơ_khai_Dermestidae", "id": 3167909, "predecessors": [{"name": "Dermestidae", "id": 839812}, {"name": "Sơ_khai_Bộ_Cánh_cứng", "id": 662891}], "successors": [{"name": "Sơ_khai_Megatominae", "id": 3663187}]}

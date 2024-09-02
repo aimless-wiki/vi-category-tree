@@ -1,1 +1,1 @@
-{"name": "Bộ_nhớ_máy_tính", "id": 163215, "predecessors": [{"name": "Dữ_liệu_máy_tính", "id": 44495}, {"name": "Phần_cứng", "id": 17721}, {"name": "Linh_kiện_bán_dẫn", "id": 228262}], "successors": []}
+{"name": "Bộ_nhớ_máy_tính", "id": 163215, "predecessors": [{"name": "Dữ_liệu_máy_tính", "id": 44495}, {"name": "MOSFET", "id": 19485778}, {"name": "Phần_cứng", "id": 17721}], "successors": []}

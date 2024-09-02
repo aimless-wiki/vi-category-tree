@@ -1,1 +1,1 @@
-{"name": "Nha_khoa", "id": 61917, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Hệ_tiêu_hóa", "id": 601759}, {"name": "Tất_cả", "id": 24901}], "successors": []}
+{"name": "Nha_khoa", "id": 61917, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Khoa_học_sức_khỏe", "id": 4159}, {"name": "Hệ_tiêu_hóa", "id": 601759}], "successors": []}

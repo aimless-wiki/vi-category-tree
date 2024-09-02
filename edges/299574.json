@@ -1,1 +1,1 @@
-{"name": "Xử_lý_ngôn_ngữ_tự_nhiên", "id": 299574, "predecessors": [{"name": "Trí_tuệ_nhân_tạo", "id": 24219}, {"name": "Ngôn_ngữ_học", "id": 4054}], "successors": []}
+{"name": "Xử_lý_ngôn_ngữ_tự_nhiên", "id": 299574, "predecessors": [{"name": "Ngôn_ngữ_học_tính_toán", "id": 52754}, {"name": "Trí_tuệ_nhân_tạo", "id": 24219}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Tàu_không_gian", "id": 658768, "predecessors": [{"name": "Du_hành_không_gian", "id": 2423798}, {"name": "Kỹ_thuật_hàng_không_vũ_trụ", "id": 1436237}], "successors": [{"name": "Tên_lửa_đẩy", "id": 1436227}, {"name": "Sơ_khai_tàu_vũ_trụ", "id": 1759841}]}
+{"name": "Tàu_không_gian", "id": 658768, "predecessors": [{"name": "Du_hành_không_gian", "id": 2423798}, {"name": "Kỹ_thuật_hàng_không_vũ_trụ", "id": 1436237}], "successors": [{"name": "Tên_lửa_đẩy", "id": 1436227}, {"name": "Sơ_khai_tàu_vũ_trụ", "id": 1759841}, {"name": "Đĩa_bay", "id": 19781052}]}

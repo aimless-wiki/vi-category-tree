@@ -1,1 +1,1 @@
-{"name": "Nghiên_cứu_y_học", "id": 43090, "predecessors": [{"name": "Y_học", "id": 8417}, {"name": "Nghiên_cứu", "id": 865990}, {"name": "Tất_cả", "id": 24901}, {"name": "Y_tế_công_cộng", "id": 24929}], "successors": []}
+{"name": "Nghiên_cứu_y_học", "id": 43090, "predecessors": [{"name": "Khoa_học_sức_khỏe", "id": 4159}, {"name": "Y_học", "id": 8417}, {"name": "Nghiên_cứu", "id": 865990}, {"name": "Y_tế_công_cộng", "id": 24929}], "successors": []}

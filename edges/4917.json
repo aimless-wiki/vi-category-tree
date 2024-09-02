@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_đố", "id": 4917, "predecessors": [{"name": "Trò_chơi_trí_tuệ", "id": 38817}, {"name": "Giải_trí", "id": 6073}, {"name": "Học_tập", "id": 865996}], "successors": [{"name": "Trò_chơi_logic", "id": 503894}, {"name": "Trò_chơi_giải_đố", "id": 19641877}]}
+{"name": "Trò_chơi_đố", "id": 4917, "predecessors": [{"name": "Trò_chơi_trí_tuệ", "id": 38817}, {"name": "Giải_trí", "id": 6073}, {"name": "Hành_vi", "id": 35714}], "successors": [{"name": "Trò_chơi_logic", "id": 503894}, {"name": "Trò_chơi_giải_đố", "id": 19641877}]}

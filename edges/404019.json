@@ -1,1 +1,1 @@
-{"name": "Biển_Đen", "id": 404019, "predecessors": [{"name": "Vùng_của_châu_Á", "id": 1406494}, {"name": "Hải_dương_học", "id": 79883}, {"name": "Nước", "id": 64811}, {"name": "Môi_trường", "id": 32789}], "successors": [{"name": "Cá_Biển_Đen", "id": 1406016}]}
+{"name": "Biển_Đen", "id": 404019, "predecessors": [{"name": "Biển_châu_Á", "id": 7569421}, {"name": "Biển_châu_Âu", "id": 1617439}, {"name": "Vùng_của_châu_Á", "id": 1406494}, {"name": "Nước", "id": 64811}, {"name": "Môi_trường", "id": 32789}], "successors": [{"name": "Cá_Biển_Đen", "id": 1406016}]}

@@ -1,1 +1,1 @@
-{"name": "Giáng_thủy", "id": 149737, "predecessors": [{"name": "Dạng_nước", "id": 115076}, {"name": "Nước", "id": 64811}, {"name": "Thời_tiết", "id": 18606}], "successors": []}
+{"name": "Giáng_thủy", "id": 149737, "predecessors": [{"name": "Nước", "id": 64811}, {"name": "Thời_tiết", "id": 18606}, {"name": "Nhiệt_động_lực_học", "id": 5474}], "successors": []}
