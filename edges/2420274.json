@@ -1,1 +1,1 @@
-{"name": "Bão_tại_Trung_Quốc", "id": 2420274, "predecessors": [{"name": "Bão_nhiệt_đới_Tây_Bắc_Thái_Bình_Dương", "id": 3216165}, {"name": "Bão", "id": 32623}, {"name": "Thiên_tai", "id": 8428}], "successors": [{"name": "Bão_tại_Đài_Loan", "id": 3232328}]}
+{"name": "Bão_tại_Trung_Quốc", "id": 2420274, "predecessors": [{"name": "Bão_nhiệt_đới_Tây_Bắc_Thái_Bình_Dương", "id": 3216165}, {"name": "Thiên_tai", "id": 8428}, {"name": "Bão", "id": 32623}], "successors": [{"name": "Bão_tại_Hồng_Kông", "id": 2455368}]}

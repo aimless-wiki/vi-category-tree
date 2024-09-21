@@ -1,1 +1,1 @@
-{"name": "Hormone_sinh_dục", "id": 16427, "predecessors": [{"name": "Hormone", "id": 16466}, {"name": "Hệ_sinh_dục", "id": 147799}, {"name": "Phụ_khoa", "id": 13732}, {"name": "Tính_dục", "id": 35715}], "successors": []}
+{"name": "Hormone_sinh_dục", "id": 16427, "predecessors": [{"name": "Hormone", "id": 16466}, {"name": "Hệ_sinh_dục", "id": 147799}, {"name": "Phụ_khoa", "id": 13732}, {"name": "Tính_dục", "id": 35715}], "successors": [{"name": "Androgen_và_steroid_đồng_hóa", "id": 19535483}]}

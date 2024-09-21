@@ -1,1 +1,1 @@
-{"name": "Cung_điện_tại_Việt_Nam", "id": 3140471, "predecessors": [{"name": "Kiến_trúc_cổ_Việt_Nam", "id": 87080}, {"name": "Việt_Nam", "id": 4189}, {"name": "Công_trình_xây_dựng", "id": 29203}], "successors": [{"name": "Kinh_thành_Huế", "id": 235754}]}
+{"name": "Cung_điện_tại_Việt_Nam", "id": 3140471, "predecessors": [{"name": "Kiến_trúc_cổ_Việt_Nam", "id": 87080}, {"name": "Kiến_trúc_Việt_Nam", "id": 30968}, {"name": "Công_trình_xây_dựng", "id": 29203}], "successors": [{"name": "Kinh_thành_Huế", "id": 235754}]}

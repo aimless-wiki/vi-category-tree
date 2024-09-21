@@ -1,1 +1,1 @@
-{"name": "Ca_sĩ_tiếng_Quan_thoại", "id": 12430086, "predecessors": [{"name": "Ca_sĩ", "id": 29210}, {"name": "Tiếng_Trung_Quốc", "id": 27566}, {"name": "Ngôn_ngữ_học_xã_hội", "id": 2900126}], "successors": [{"name": "Nhóm_nhạc_Mandopop", "id": 14766547}]}
+{"name": "Ca_sĩ_tiếng_Quan_thoại", "id": 12430086, "predecessors": [{"name": "Ca_sĩ", "id": 29210}, {"name": "Phương_ngữ_Hán_ngữ", "id": 3521401}, {"name": "Tiếng_Trung_Quốc", "id": 27566}], "successors": [{"name": "Nhóm_nhạc_Mandopop", "id": 14766547}, {"name": "Ca_sĩ_Mandopop_Trung_Quốc", "id": 19587982}]}

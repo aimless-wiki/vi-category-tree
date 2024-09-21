@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_điện_tử_khoa_học_kỳ_ảo", "id": 14892398, "predecessors": [{"name": "Khoa_học_kỳ_ảo", "id": 3218359}], "successors": [{"name": "Trò_chơi_điện_tử_Pokémon", "id": 3417274}, {"name": "Trò_chơi_điện_tử_Steampunk", "id": 19543647}]}
+{"name": "Trò_chơi_điện_tử_khoa_học_kỳ_ảo", "id": 14892398, "predecessors": [{"name": "Trò_chơi_điện_tử_khoa_học_viễn_tưởng", "id": 630421}, {"name": "Trò_chơi_điện_tử_kỳ_ảo", "id": 14892407}, {"name": "Hư_cấu", "id": 397665}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Trò_chơi_điện_tử_Pokémon", "id": 3417274}]}

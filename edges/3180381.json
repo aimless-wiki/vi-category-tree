@@ -1,1 +1,1 @@
-{"name": "Trò_chơi_trên_bàn", "id": 3180381, "predecessors": [{"name": "Trò_chơi", "id": 38811}], "successors": [{"name": "Trò_chơi_nhập_vai", "id": 248378}, {"name": "Trò_chơi_trên_bàn_cổ_điển", "id": 3125225}]}
+{"name": "Trò_chơi_trên_bàn", "id": 3180381, "predecessors": [{"name": "Trò_chơi", "id": 38811}], "successors": [{"name": "Trò_chơi_nhập_vai", "id": 248378}, {"name": "Trò_chơi_trên_bàn_cổ_điển", "id": 3125225}, {"name": "Bắn_súng_góc_nhìn_người_thứ_nhất", "id": 629309}]}

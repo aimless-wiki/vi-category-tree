@@ -1,1 +1,1 @@
-{"name": "Ester", "id": 479411, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}, {"name": "Nhóm_chức", "id": 17525}], "successors": [{"name": "Acid_béo", "id": 3674769}]}
+{"name": "Ester", "id": 479411, "predecessors": [{"name": "Hóa_chất", "id": 59544}, {"name": "Hợp_chất_hữu_cơ", "id": 17305}, {"name": "Nhóm_chức", "id": 17525}], "successors": [{"name": "Ester_carboxylat", "id": 19522799}, {"name": "Acid_béo", "id": 3674769}]}

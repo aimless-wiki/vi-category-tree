@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_Lepturinae", "id": 23539, "predecessors": [{"name": "Sơ_khai_Họ_Xén_tóc", "id": 3119859}, {"name": "Họ_Xén_tóc", "id": 2611104}], "successors": [{"name": "Sơ_khai_Rhagiini", "id": 3232228}, {"name": "Sơ_khai_Lepturini", "id": 3232230}]}
+{"name": "Sơ_khai_Lepturinae", "id": 23539, "predecessors": [{"name": "Lepturinae", "id": 3155758}, {"name": "Sơ_khai_Họ_Xén_tóc", "id": 3119859}], "successors": [{"name": "Sơ_khai_Rhagiini", "id": 3232228}, {"name": "Sơ_khai_Lepturini", "id": 3232230}]}
