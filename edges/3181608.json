@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_Halictidae", "id": 3181608, "predecessors": [{"name": "Sơ_khai_Bộ_Cánh_màng", "id": 1589492}, {"name": "Bộ_côn_trùng", "id": 863330}], "successors": [{"name": "Sơ_khai_Nomiinae", "id": 3492829}, {"name": "Sơ_khai_Halictinae", "id": 3492834}]}
+{"name": "Sơ_khai_Halictidae", "id": 3181608, "predecessors": [{"name": "Halictidae", "id": 890218}, {"name": "Sơ_khai_Bộ_Cánh_màng", "id": 1589492}], "successors": [{"name": "Sơ_khai_Nomiinae", "id": 3492829}, {"name": "Sơ_khai_Halictinae", "id": 3492834}]}

@@ -1,1 +1,1 @@
-{"name": "Cây_thức_ăn_cho_bướm", "id": 1680522, "predecessors": [{"name": "Thực_vật", "id": 12825}, {"name": "Danh_pháp_động_vật_học", "id": 148843}], "successors": []}
+{"name": "Cây_thức_ăn_bướm_ngày", "id": 1680522, "predecessors": [{"name": "Danh_pháp_động_vật_học", "id": 148843}, {"name": "Sinh_thái_học", "id": 1407}, {"name": "Kiến_trúc_cảnh_quan", "id": 38651}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Sinh_học_phát_triển", "id": 35680, "predecessors": [{"name": "Sinh_học", "id": 2012}, {"name": "Sinh_sản", "id": 32774}, {"name": "Động_vật_học", "id": 25808}], "successors": [{"name": "Dòng_hóa", "id": 1520323}]}
+{"name": "Sinh_học_phát_triển", "id": 35680, "predecessors": [{"name": "Sinh_học", "id": 2012}, {"name": "Sinh_sản", "id": 32774}, {"name": "Động_vật_học", "id": 25808}], "successors": [{"name": "Dòng_hóa", "id": 1520323}, {"name": "Sản_phụ_tử_vong", "id": 13696473}]}

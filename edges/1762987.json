@@ -1,1 +1,1 @@
-{"name": "Biểu_quyết_xoá_bài", "id": 1762987, "predecessors": [{"name": "Quản_lý_Wikipedia", "id": 5945}, {"name": "Bản_mẫu_viết_bài", "id": 789133}], "successors": [{"name": "Bài_được_giữ_thông_qua_biểu_quyết", "id": 19650237}]}
+{"name": "Biểu_quyết_xoá_bài", "id": 1762987, "predecessors": [{"name": "Quản_lý_Wikipedia", "id": 5945}, {"name": "Bản_mẫu_viết_bài", "id": 789133}], "successors": [{"name": "Bài_được_giữ_thông_qua_biểu_quyết", "id": 19650237}, {"name": "Biểu_quyết_xoá_bài_đang_diễn_ra", "id": 19886387}]}
