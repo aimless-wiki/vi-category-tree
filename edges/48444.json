@@ -1,1 +1,1 @@
-{"name": "Môi_trường_màn_hình_nền_tự_do", "id": 48444, "predecessors": [{"name": "Phần_mềm_tự_do", "id": 4939}, {"name": "Giao_diện_người_dùng", "id": 376893}], "successors": [{"name": "GNOME", "id": 48448}]}
+{"name": "Môi_trường_desktop_tự_do", "id": 48444, "predecessors": [{"name": "Phần_mềm_tự_do", "id": 4939}, {"name": "Giao_diện_người_dùng", "id": 376893}], "successors": [{"name": "GNOME", "id": 48448}]}

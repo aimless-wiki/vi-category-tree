@@ -1,1 +1,1 @@
-{"name": "Ký_hiệu_toán_học", "id": 102886, "predecessors": [{"name": "Toán_học", "id": 1331}, {"name": "Nhận_thức_luận", "id": 38571}], "successors": [{"name": "Hệ_đếm", "id": 44607}]}
+{"name": "Ký_hiệu_toán_học", "id": 102886, "predecessors": [{"name": "Toán_học", "id": 1331}, {"name": "Mô_hình_hóa_khoa_học", "id": 52714}], "successors": [{"name": "Hệ_đếm", "id": 44607}]}
