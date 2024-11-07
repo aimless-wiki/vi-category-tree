@@ -1,1 +1,1 @@
-{"name": "Thành_phố_của_Cuba", "id": 61934, "predecessors": [{"name": "Quốc_gia_Bắc_Mỹ", "id": 1536569}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Đô_thị_tỉnh_Holguín", "id": 462002}, {"name": "Đô_thị_tỉnh_La_Habana", "id": 464102}]}
+{"name": "Thành_phố_của_Cuba", "id": 61934, "predecessors": [{"name": "Cuba", "id": 33012}, {"name": "Tất_cả", "id": 24901}], "successors": [{"name": "Đô_thị_tỉnh_Holguín", "id": 462002}, {"name": "Đô_thị_tỉnh_La_Habana", "id": 464102}]}
