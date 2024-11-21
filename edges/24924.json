@@ -1,1 +1,1 @@
-{"name": "Diện_tích", "id": 24924, "predecessors": [{"name": "Đại_lượng_vật_lý", "id": 4635}, {"name": "Giải_tích_toán_học", "id": 10498}, {"name": "Hình_học", "id": 1176}], "successors": []}
+{"name": "Diện_tích", "id": 24924, "predecessors": [{"name": "Đại_lượng_vật_lý", "id": 4635}, {"name": "Lý_thuyết_độ_đo", "id": 51382}, {"name": "Hình_học", "id": 1176}], "successors": []}
