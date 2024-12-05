@@ -1,1 +1,1 @@
-{"name": "Danh_sách_vua", "id": 230063, "predecessors": [{"name": "Hoàng_gia", "id": 239807}, {"name": "Chức_vụ_chính_phủ", "id": 2429526}], "successors": [{"name": "Danh_sách_vua_Việt_Nam", "id": 280262}]}
+{"name": "Danh_sách_vua", "id": 230063, "predecessors": [{"name": "Vua", "id": 32226}, {"name": "Chức_vụ_chính_phủ", "id": 2429526}], "successors": [{"name": "Danh_sách_vua_Việt_Nam", "id": 280262}]}

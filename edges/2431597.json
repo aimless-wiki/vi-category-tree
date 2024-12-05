@@ -1,1 +1,1 @@
-{"name": "Bệnh_lý_học", "id": 2431597, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Môi_trường", "id": 32789}, {"name": "Sức_khỏe", "id": 15516}], "successors": [{"name": "Ký_sinh_trùng", "id": 2431595}]}
+{"name": "Bệnh_lý_học", "id": 2431597, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Môi_trường", "id": 32789}, {"name": "Sức_khỏe", "id": 15516}], "successors": [{"name": "Ký_sinh_trùng", "id": 2431595}, {"name": "Sơ_khai_động_vật_ký_sinh", "id": 19905971}]}

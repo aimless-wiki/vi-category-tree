@@ -1,1 +1,1 @@
-{"name": "Sơ_khai_Lớp_San_hô", "id": 3122576, "predecessors": [{"name": "Sơ_khai_động_vật", "id": 299762}, {"name": "Động_vật", "id": 61620}], "successors": [{"name": "Sơ_khai_Bộ_San_hô_cứng", "id": 3122575}]}
+{"name": "Sơ_khai_Phân_ngành_San_hô", "id": 3122576, "predecessors": [{"name": "Sơ_khai_Ngành_Thích_ty_bào", "id": 19905950}, {"name": "Công_cụ_Wikipedia", "id": 26063}, {"name": "Động_vật", "id": 61620}], "successors": [{"name": "Sơ_khai_Bộ_San_hô_cứng", "id": 3122575}]}

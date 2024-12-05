@@ -1,1 +1,1 @@
-{"name": "Nhạc_sĩ_Los_Angeles", "id": 13981420, "predecessors": [{"name": "Nhạc_sĩ_quận_Los_Angeles,_California", "id": 13981449}, {"name": "Người_Los_Angeles", "id": 3259556}], "successors": []}
+{"name": "Nhạc_sĩ_Los_Angeles", "id": 13981420, "predecessors": [{"name": "Người_Los_Angeles", "id": 3259556}, {"name": "Văn_hóa_Mỹ", "id": 42415}, {"name": "Nhạc_sĩ_Mỹ", "id": 37554}, {"name": "Người_California", "id": 65525}], "successors": [{"name": "Ban_nhạc_từ_Los_Angeles", "id": 3417158}]}

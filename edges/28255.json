@@ -1,1 +1,1 @@
-{"name": "Vật_lý_nguyên_tử", "id": 28255, "predecessors": [{"name": "Cơ_học_lượng_tử", "id": 6893}, {"name": "Hóa_học", "id": 1648}, {"name": "Vật_lý_học", "id": 1420}], "successors": [{"name": "Vật_lý_hạt_nhân", "id": 17116}, {"name": "Phổ_học", "id": 57693}]}
+{"name": "Vật_lý_nguyên_tử", "id": 28255, "predecessors": [{"name": "Cơ_học_lượng_tử", "id": 6893}, {"name": "Hóa_học", "id": 1648}, {"name": "Vật_lý_học", "id": 1420}], "successors": [{"name": "Tán_xạ", "id": 13408}, {"name": "Vật_lý_hạt_nhân", "id": 17116}, {"name": "Phổ_học", "id": 57693}]}
