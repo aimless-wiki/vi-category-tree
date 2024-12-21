@@ -1,1 +1,1 @@
-{"name": "Tiếng_Đức", "id": 807567, "predecessors": [{"name": "Ngôn_ngữ_tại_Đức", "id": 3099468}, {"name": "Bảng_chữ_cái", "id": 1678118}, {"name": "Ngôn_ngữ_học", "id": 4054}], "successors": [{"name": "Từ_và_cụm_từ_tiếng_Đức", "id": 807566}, {"name": "Phim_tiếng_Đức", "id": 3230328}]}
+{"name": "Tiếng_Đức", "id": 807567, "predecessors": [{"name": "Ngôn_ngữ_tại_Bỉ", "id": 48406}, {"name": "Ngôn_ngữ_tại_Đức", "id": 3099468}, {"name": "Bảng_chữ_cái", "id": 1678118}], "successors": [{"name": "Từ_và_cụm_từ_tiếng_Đức", "id": 807566}, {"name": "Phim_tiếng_Đức", "id": 3230328}]}

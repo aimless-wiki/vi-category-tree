@@ -1,1 +1,1 @@
-{"name": "Bản_mẫu_cấm_thành_viên", "id": 3688326, "predecessors": [{"name": "Bản_mẫu_cảnh_báo_thành_viên", "id": 806796}, {"name": "Bản_mẫu", "id": 502043}], "successors": []}
+{"name": "Bản_mẫu_cấm_thành_viên", "id": 3688326, "predecessors": [{"name": "Bản_mẫu_cảnh_báo_thành_viên", "id": 806796}, {"name": "Bản_mẫu", "id": 502043}], "successors": [{"name": "Bản_mẫu_cấm_thành_viên_vô_hạn", "id": 19512156}]}
