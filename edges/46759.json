@@ -1,1 +1,1 @@
-{"name": "Hợp_chất_sắt", "id": 46759, "predecessors": [{"name": "Sắt", "id": 82605}, {"name": "Hợp_chất_hóa_học", "id": 12958}], "successors": [{"name": "Hợp_kim_của_sắt", "id": 46758}, {"name": "Khoáng_vật_sắt", "id": 325177}]}
+{"name": "Hợp_chất_sắt", "id": 46759, "predecessors": [{"name": "Hợp_chất_hóa_học", "id": 12958}, {"name": "Kim_loại_chuyển_tiếp", "id": 15139}], "successors": [{"name": "Hợp_kim_của_sắt", "id": 46758}, {"name": "Khoáng_vật_sắt", "id": 325177}]}

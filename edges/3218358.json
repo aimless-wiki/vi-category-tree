@@ -1,1 +1,1 @@
-{"name": "Phim_khoa_học_kỳ_ảo", "id": 3218358, "predecessors": [{"name": "Phim_khoa_học_viễn_tưởng", "id": 95395}, {"name": "Hư_cấu", "id": 397665}], "successors": [{"name": "Chiến_tranh_giữa_các_vì_sao", "id": 126261}]}
+{"name": "Phim_khoa_học_kỳ_ảo", "id": 3218358, "predecessors": [{"name": "Phim_khoa_học_viễn_tưởng", "id": 95395}, {"name": "Giả_tưởng", "id": 3416533}], "successors": [{"name": "Chiến_tranh_giữa_các_vì_sao", "id": 126261}]}

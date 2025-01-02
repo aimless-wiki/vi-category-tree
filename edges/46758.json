@@ -1,1 +1,1 @@
-{"name": "Hợp_kim_của_sắt", "id": 46758, "predecessors": [{"name": "Hợp_chất_sắt", "id": 46759}, {"name": "Hợp_kim", "id": 46757}, {"name": "Sắt", "id": 82605}], "successors": []}
+{"name": "Hợp_kim_của_sắt", "id": 46758, "predecessors": [{"name": "Hợp_chất_sắt", "id": 46759}, {"name": "Hợp_kim", "id": 46757}, {"name": "Kim_loại_chuyển_tiếp", "id": 15139}], "successors": []}

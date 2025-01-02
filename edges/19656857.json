@@ -1,1 +1,1 @@
-{"name": "Công_ty_có_trụ_sở_tại_San_Francisco", "id": 19656857, "predecessors": [{"name": "Công_ty_có_trụ_sở_tại_California", "id": 230140}, {"name": "San_Francisco", "id": 60892}], "successors": []}
+{"name": "Công_ty_có_trụ_sở_tại_San_Francisco", "id": 19656857, "predecessors": [{"name": "Quận_của_California", "id": 132432}, {"name": "Kinh_tế_Hoa_Kỳ", "id": 148181}, {"name": "San_Francisco", "id": 60892}], "successors": []}

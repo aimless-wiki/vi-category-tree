@@ -1,1 +1,1 @@
-{"name": "Lưu_trữ_video", "id": 3181628, "predecessors": [{"name": "Video", "id": 1440061}, {"name": "Công_nghệ_thông_tin", "id": 9175}], "successors": [{"name": "DVD", "id": 8524}, {"name": "Dịch_vụ_lưu_trữ_video", "id": 214377}, {"name": "Video_lan_truyền_nhanh", "id": 1752879}]}
+{"name": "Lưu_trữ_video", "id": 3181628, "predecessors": [{"name": "Video", "id": 1440061}, {"name": "Công_nghệ_thông_tin", "id": 9175}], "successors": [{"name": "Dịch_vụ_lưu_trữ_video", "id": 214377}, {"name": "Video_lan_truyền_nhanh", "id": 1752879}]}

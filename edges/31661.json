@@ -1,1 +1,1 @@
-{"name": "Xe", "id": 31661, "predecessors": [{"name": "Phương_tiện_giao_thông", "id": 29193}, {"name": "Dụng_cụ", "id": 38805}, {"name": "Con_người", "id": 18532}], "successors": []}
+{"name": "Xe", "id": 31661, "predecessors": [{"name": "Giao_thông", "id": 7509}, {"name": "Dụng_cụ", "id": 38805}, {"name": "Con_người", "id": 18532}], "successors": [{"name": "Xe_Kia", "id": 19734183}]}

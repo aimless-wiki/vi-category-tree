@@ -1,1 +1,1 @@
-{"name": "Bệnh_động_vật", "id": 422374, "predecessors": [{"name": "Bệnh", "id": 16308}, {"name": "Thú_y", "id": 422375}, {"name": "Sức_khỏe", "id": 15516}], "successors": [{"name": "Bất_thường_bẩm_sinh", "id": 22206}, {"name": "Bệnh_gia_cầm", "id": 3187638}, {"name": "Bệnh_lây_truyền_từ_động_vật", "id": 19747877}]}
+{"name": "Bệnh_động_vật", "id": 422374, "predecessors": [{"name": "Bệnh", "id": 16308}, {"name": "Thú_y", "id": 422375}, {"name": "Sức_khỏe", "id": 15516}], "successors": [{"name": "Bất_thường_bẩm_sinh", "id": 22206}, {"name": "Bệnh_gia_cầm", "id": 3187638}]}

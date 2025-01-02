@@ -1,1 +1,1 @@
-{"name": "Chẩn_đoán_tâm_thần", "id": 3128075, "predecessors": [{"name": "Xét_nghiệm_y_khoa", "id": 16784}, {"name": "Chuyên_ngành_y_khoa", "id": 3180293}], "successors": [{"name": "Rối_loạn_lo_âu", "id": 308254}]}
+{"name": "Chẩn_đoán_tâm_thần", "id": 3128075, "predecessors": [{"name": "Xét_nghiệm_y_khoa", "id": 16784}, {"name": "Chuyên_ngành_y_khoa", "id": 3180293}], "successors": [{"name": "Hội_chứng_sợ", "id": 3147612}]}

@@ -1,1 +1,1 @@
-{"name": "Hệ_miễn_dịch", "id": 16779, "predecessors": [{"name": "Miễn_dịch_học", "id": 12706}, {"name": "Cơ_quan", "id": 2415588}], "successors": [{"name": "Miễn_dịch_học", "id": 12706}, {"name": "Rối_loạn_hệ_miễn_dịch", "id": 37901}, {"name": "Cytokine", "id": 441002}]}
+{"name": "Hệ_miễn_dịch", "id": 16779, "predecessors": [{"name": "Miễn_dịch_học", "id": 12706}, {"name": "Cơ_quan", "id": 2415588}], "successors": [{"name": "Miễn_dịch_học", "id": 12706}, {"name": "Cytokine", "id": 441002}]}

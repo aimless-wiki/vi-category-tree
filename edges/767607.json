@@ -1,1 +1,1 @@
-{"name": "Cóc", "id": 767607, "predecessors": [{"name": "Bộ_Không_đuôi", "id": 565555}, {"name": "Phân_loại_cóc", "id": 1439448}], "successors": [{"name": "Chi_Cóc", "id": 2435967}]}
+{"name": "Cóc", "id": 767607, "predecessors": [{"name": "Phân_loại_cóc", "id": 1439448}, {"name": "Bộ_động_vật", "id": 70169}], "successors": [{"name": "Chi_Cóc", "id": 2435967}]}

@@ -1,1 +1,1 @@
-{"name": "Tài_chính_cá_nhân", "id": 2426524, "predecessors": [{"name": "Phát_triển_cá_nhân", "id": 831919}, {"name": "Gia_đình", "id": 27710}, {"name": "Môn_học", "id": 24904}], "successors": [{"name": "Nợ", "id": 2221700}]}
+{"name": "Tài_chính_cá_nhân", "id": 2426524, "predecessors": [{"name": "Gia_đình", "id": 27710}, {"name": "Cá_nhân", "id": 831920}, {"name": "Môn_học", "id": 24904}], "successors": [{"name": "Nợ", "id": 2221700}]}

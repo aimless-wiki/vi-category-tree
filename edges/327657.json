@@ -1,1 +1,1 @@
-{"name": "Thuyền", "id": 327657, "predecessors": [{"name": "Phương_tiện_giao_thông", "id": 29193}, {"name": "Tất_cả", "id": 24901}, {"name": "Cơ_học", "id": 1375}], "successors": []}
+{"name": "Thuyền", "id": 327657, "predecessors": [{"name": "Giao_thông", "id": 7509}, {"name": "Tất_cả", "id": 24901}, {"name": "Cơ_học", "id": 1375}], "successors": []}

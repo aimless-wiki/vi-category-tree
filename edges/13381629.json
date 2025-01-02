@@ -1,1 +1,1 @@
-{"name": "Quản_lý_thời_gian", "id": 13381629, "predecessors": [{"name": "Sinh_hoạt", "id": 38914}, {"name": "Thời_gian", "id": 8613}, {"name": "Quản_lý", "id": 52706}, {"name": "Chất_lượng", "id": 1591259}, {"name": "Giải_quyết_vấn_đề", "id": 52707}], "successors": []}
+{"name": "Quản_lý_thời_gian", "id": 13381629, "predecessors": [{"name": "Sinh_hoạt", "id": 38914}, {"name": "Thời_gian", "id": 8613}, {"name": "Quản_lý", "id": 52706}, {"name": "Sống_đơn_giản", "id": 3175989}, {"name": "Giải_quyết_vấn_đề", "id": 52707}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nhóm_sắc_tộc_ở_Thổ_Nhĩ_Kỳ", "id": 3277198, "predecessors": [{"name": "Nhóm_sắc_tộc_ở_Trung_Đông", "id": 5076729}, {"name": "Tất_cả", "id": 24901}, {"name": "Xã_hội", "id": 7494}], "successors": []}
+{"name": "Nhóm_sắc_tộc_ở_Thổ_Nhĩ_Kỳ", "id": 3277198, "predecessors": [{"name": "Trung_Đông", "id": 20027}, {"name": "Tất_cả", "id": 24901}, {"name": "Xã_hội", "id": 7494}], "successors": []}

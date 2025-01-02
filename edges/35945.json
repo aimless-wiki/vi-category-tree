@@ -1,1 +1,1 @@
-{"name": "Nhà_tù_tại_Việt_Nam", "id": 35945, "predecessors": [{"name": "Lịch_sử_Việt_Nam", "id": 4168}, {"name": "Xã_hội_Việt_Nam", "id": 65109}, {"name": "Kiến_trúc_Việt_Nam", "id": 30968}, {"name": "Chính_phủ", "id": 48944}], "successors": [{"name": "Tù_nhân_Việt_Nam", "id": 3171955}]}
+{"name": "Nhà_tù_tại_Việt_Nam", "id": 35945, "predecessors": [{"name": "Lịch_sử_Việt_Nam", "id": 4168}, {"name": "Xã_hội_Việt_Nam", "id": 65109}, {"name": "Việt_Nam", "id": 4189}, {"name": "Chính_phủ", "id": 48944}], "successors": [{"name": "Tù_nhân_Việt_Nam", "id": 3171955}]}

@@ -1,1 +1,1 @@
-{"name": "Wushu", "id": 104664, "predecessors": [{"name": "Thể_thao_đối_kháng", "id": 1260170}, {"name": "Võ_thuật_Trung_Hoa", "id": 40285}, {"name": "Thể_thao", "id": 6834}], "successors": []}
+{"name": "Wushu", "id": 104664, "predecessors": [{"name": "Võ_thuật_Trung_Hoa", "id": 40285}, {"name": "Thể_thao", "id": 6834}, {"name": "Bạo_lực", "id": 341905}], "successors": []}

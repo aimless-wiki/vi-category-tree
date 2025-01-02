@@ -1,1 +1,1 @@
-{"name": "Vận_động_viên_Hà_Nội", "id": 3250116, "predecessors": [{"name": "Người_Hà_Nội", "id": 37022}, {"name": "Thể_thao_Hà_Nội", "id": 36643}, {"name": "Vận_động_viên_Việt_Nam", "id": 37667}, {"name": "Thể_thao", "id": 6834}], "successors": []}
+{"name": "Vận_động_viên_Hà_Nội", "id": 3250116, "predecessors": [{"name": "Người_Hà_Nội", "id": 37022}, {"name": "Vận_động_viên_Việt_Nam", "id": 37667}, {"name": "Thể_thao_Việt_Nam", "id": 21787}, {"name": "Thể_thao", "id": 6834}], "successors": []}

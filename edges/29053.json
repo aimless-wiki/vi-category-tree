@@ -1,1 +1,1 @@
-{"name": "Bếp", "id": 29053, "predecessors": [{"name": "Nấu_ăn", "id": 38913}, {"name": "Vật_dụng_trong_nhà", "id": 3175944}, {"name": "Sinh_hoạt", "id": 38914}], "successors": [{"name": "Dụng_cụ_nấu_ăn", "id": 17067}, {"name": "Dụng_cụ_ăn_uống", "id": 27708}, {"name": "Vật_dụng_chứa_thực_phẩm", "id": 3180050}]}
+{"name": "Bếp", "id": 29053, "predecessors": [{"name": "Nấu_ăn", "id": 38913}, {"name": "Vật_dụng_trong_nhà", "id": 3175944}, {"name": "Sinh_hoạt", "id": 38914}], "successors": [{"name": "Dụng_cụ_nấu_ăn", "id": 17067}, {"name": "Dụng_cụ_ăn_uống", "id": 27708}]}

@@ -1,1 +1,1 @@
-{"name": "Năng_lượng_tái_tạo", "id": 13200, "predecessors": [{"name": "Năng_lượng", "id": 10495}, {"name": "Phát_triển_bền_vững", "id": 30389}], "successors": [{"name": "Nhiên_liệu_sinh_học", "id": 25429}, {"name": "Năng_lượng_Mặt_Trời", "id": 43348}]}
+{"name": "Năng_lượng_tái_tạo", "id": 13200, "predecessors": [{"name": "Năng_lượng", "id": 10495}, {"name": "Sinh_thái_học", "id": 1407}, {"name": "Tài_nguyên_thiên_nhiên", "id": 1699543}], "successors": [{"name": "Nhiên_liệu_sinh_học", "id": 25429}, {"name": "Năng_lượng_Mặt_Trời", "id": 43348}]}

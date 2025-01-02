@@ -1,1 +1,1 @@
-{"name": "Hộp_điều_hướng_lịch_sử_và_sự_kiện", "id": 3706565, "predecessors": [{"name": "Bản_mẫu_lịch_sử_và_sự_kiện", "id": 2154036}, {"name": "Hộp_điều_hướng", "id": 1677743}], "successors": [{"name": "Bản_mẫu_thể_loại_theo_trình_tự_thời_gian", "id": 3706564}]}
+{"name": "Hộp_điều_hướng_lịch_sử_và_sự_kiện", "id": 3706565, "predecessors": [{"name": "Bản_mẫu_lịch_sử_và_sự_kiện", "id": 2154036}, {"name": "Bản_mẫu", "id": 502043}], "successors": [{"name": "Bản_mẫu_thể_loại_theo_trình_tự_thời_gian", "id": 3706564}]}

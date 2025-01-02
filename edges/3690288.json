@@ -1,1 +1,1 @@
-{"name": "Mẫu_thiết_kế_phần_mềm", "id": 3690288, "predecessors": [{"name": "Lập_trình_máy_tính", "id": 25631}, {"name": "Chiều_không_gian", "id": 1439385}, {"name": "Công_nghệ_phần_mềm", "id": 47752}], "successors": []}
+{"name": "Mẫu_thiết_kế_phần_mềm", "id": 3690288, "predecessors": [{"name": "Lập_trình_máy_tính", "id": 25631}, {"name": "Khái_niệm_vật_lý", "id": 1439384}, {"name": "Công_nghệ_phần_mềm", "id": 47752}], "successors": []}

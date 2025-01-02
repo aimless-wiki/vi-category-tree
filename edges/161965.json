@@ -1,1 +1,1 @@
-{"name": "Báo_chí_được_xuất_bản_ở_Trung_Quốc", "id": 161965, "predecessors": [{"name": "Báo_viết", "id": 153043}, {"name": "Hành_vi_con_người", "id": 84233}, {"name": "Báo_chí", "id": 7512}], "successors": []}
+{"name": "Báo_chí_được_xuất_bản_ở_Trung_Quốc", "id": 161965, "predecessors": [{"name": "Hành_vi_con_người", "id": 84233}, {"name": "Báo_chí", "id": 7512}, {"name": "In_ấn", "id": 25876}], "successors": []}

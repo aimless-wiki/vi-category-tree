@@ -1,1 +1,1 @@
-{"name": "Tai_mũi_họng", "id": 16708, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Y_học", "id": 8417}, {"name": "Đầu_và_cổ", "id": 54739}], "successors": []}
+{"name": "Tai_mũi_họng", "id": 16708, "predecessors": [{"name": "Chuyên_ngành_y_khoa", "id": 3180293}, {"name": "Y_học", "id": 8417}, {"name": "Đầu_và_cổ", "id": 54739}], "successors": [{"name": "Tử_vong_vì_bệnh_phổi", "id": 3395810}, {"name": "Tử_vong_vì_đại_dịch_COVID-19", "id": 19586466}]}
